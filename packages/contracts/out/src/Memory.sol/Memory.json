@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"This library provides low-level memory operations with safety checks.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"Memory Operations\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"notice\":\"A library for performing low-level memory operations.\",\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":\"Memory\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"This library provides low-level memory operations with safety checks.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"Memory Operations\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"notice\":\"A library for performing low-level memory operations.\",\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":\"Memory\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": "Memory"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": "Memory"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
         "keccak256": "0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7",
         "urls": [
           "bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5",
@@ -57,7 +57,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
         "keccak256": "0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f",
         "urls": [
           "bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401",
@@ -69,15 +69,11 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol",
     "id": 2265,
     "exportedSymbols": {
-      "Memory": [
-        2264
-      ],
-      "leftMask": [
-        15160
-      ]
+      "Memory": [2264],
+      "leftMask": [15160]
     },
     "nodeType": "SourceUnit",
     "src": "32:1954:12",
@@ -87,19 +83,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:12",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 2210,
         "nodeType": "ImportDirective",
         "src": "59:42:12",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol",
         "file": "./leftMask.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 2265,
@@ -639,9 +630,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    2256
-                  ],
+                  "assignments": [2256],
                   "declarations": [
                     {
                       "constant": false,
@@ -1026,9 +1015,7 @@
           "text": " @title Memory Operations\n @notice A library for performing low-level memory operations.\n @dev This library provides low-level memory operations with safety checks."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          2264
-        ],
+        "linearizedBaseContracts": [2264],
         "name": "Memory",
         "nameLocation": "290:6:12",
         "scope": 2265,

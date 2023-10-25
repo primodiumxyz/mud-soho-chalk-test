@@ -28,7 +28,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"length\",\"type\":\"uint256\"}],\"name\":\"SchemaLib_InvalidLength\",\"type\":\"error\"},{\"inputs\":[],\"name\":\"SchemaLib_StaticTypeAfterDynamicType\",\"type\":\"error\"}],\"devdoc\":{\"details\":\"Static utility functions for handling Schemas.\",\"errors\":{\"SchemaLib_InvalidLength(uint256)\":[{\"details\":\"Error raised when the provided schema has an invalid length.\"}],\"SchemaLib_StaticTypeAfterDynamicType()\":[{\"details\":\"Error raised when a static type is placed after a dynamic type in a schema.\"}]},\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol\":\"SchemaLib\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol\":{\"keccak256\":\"0x58aef318ba03f8ff8866ef70f8a30f549b150657ea699734aefe16c298956401\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7dc104690a7e2bcf5ce1afadcd58f8ef4d639b4b92b9ad9293656235d54395f3\",\"dweb:/ipfs/QmYJJvEv5KBJ3kzf9AkgRn7Uu5dp4exGTRddf4cae1btgE\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]},\"node_modules/@latticexyz/schema-type/src/solidity/SchemaType.sol\":{\"keccak256\":\"0x770eff7a38b9b7b1613dc11ca09db4f28b42a117c9b39b2a06a650a58a250bdb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://39f544110658a53def52c2a4e33b8b158b95a4f14fccea58d5268b6e728d86d4\",\"dweb:/ipfs/QmTesj6tjSFbfAiKUitXapdNYWPStS8bLkB3r22qfyHwUC\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"uint256\",\"name\":\"length\",\"type\":\"uint256\"}],\"name\":\"SchemaLib_InvalidLength\",\"type\":\"error\"},{\"inputs\":[],\"name\":\"SchemaLib_StaticTypeAfterDynamicType\",\"type\":\"error\"}],\"devdoc\":{\"details\":\"Static utility functions for handling Schemas.\",\"errors\":{\"SchemaLib_InvalidLength(uint256)\":[{\"details\":\"Error raised when the provided schema has an invalid length.\"}],\"SchemaLib_StaticTypeAfterDynamicType()\":[{\"details\":\"Error raised when a static type is placed after a dynamic type in a schema.\"}]},\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol\":\"SchemaLib\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol\":{\"keccak256\":\"0x58aef318ba03f8ff8866ef70f8a30f549b150657ea699734aefe16c298956401\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7dc104690a7e2bcf5ce1afadcd58f8ef4d639b4b92b9ad9293656235d54395f3\",\"dweb:/ipfs/QmYJJvEv5KBJ3kzf9AkgRn7Uu5dp4exGTRddf4cae1btgE\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]},\"node_modules/@latticexyz/schema-type/src/solidity/SchemaType.sol\":{\"keccak256\":\"0x770eff7a38b9b7b1613dc11ca09db4f28b42a117c9b39b2a06a650a58a250bdb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://39f544110658a53def52c2a4e33b8b158b95a4f14fccea58d5268b6e728d86d4\",\"dweb:/ipfs/QmTesj6tjSFbfAiKUitXapdNYWPStS8bLkB3r22qfyHwUC\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -78,12 +78,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol": "SchemaLib"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol": "SchemaLib"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol": {
         "keccak256": "0x58aef318ba03f8ff8866ef70f8a30f549b150657ea699734aefe16c298956401",
         "urls": [
           "bzz-raw://7dc104690a7e2bcf5ce1afadcd58f8ef4d639b4b92b9ad9293656235d54395f3",
@@ -91,7 +91,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol": {
         "keccak256": "0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076",
         "urls": [
           "bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793",
@@ -111,36 +111,18 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Schema.sol",
     "id": 3447,
     "exportedSymbols": {
-      "BYTE_TO_BITS": [
-        15088
-      ],
-      "LayoutOffsets": [
-        15135
-      ],
-      "MAX_DYNAMIC_FIELDS": [
-        15100
-      ],
-      "MAX_TOTAL_FIELDS": [
-        15092
-      ],
-      "Schema": [
-        2978
-      ],
-      "SchemaInstance": [
-        3446
-      ],
-      "SchemaLib": [
-        3133
-      ],
-      "SchemaType": [
-        64550
-      ],
-      "WORD_LAST_INDEX": [
-        15084
-      ]
+      "BYTE_TO_BITS": [15088],
+      "LayoutOffsets": [15135],
+      "MAX_DYNAMIC_FIELDS": [15100],
+      "MAX_TOTAL_FIELDS": [15092],
+      "Schema": [2978],
+      "SchemaInstance": [3446],
+      "SchemaLib": [3133],
+      "SchemaType": [64550],
+      "WORD_LAST_INDEX": [15084]
     },
     "nodeType": "SourceUnit",
     "src": "32:7631:15",
@@ -150,12 +132,7 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:15",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 2970,
@@ -188,7 +165,7 @@
         "nodeType": "ImportDirective",
         "src": "142:117:15",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol",
         "file": "./constants.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 3447,
@@ -285,9 +262,7 @@
         "libraryName": {
           "id": 2979,
           "name": "SchemaInstance",
-          "nameLocations": [
-            "693:14:15"
-          ],
+          "nameLocations": ["693:14:15"],
           "nodeType": "IdentifierPath",
           "referencedDeclaration": 3446,
           "src": "693:14:15"
@@ -298,9 +273,7 @@
           "pathNode": {
             "id": 2980,
             "name": "Schema",
-            "nameLocations": [
-              "712:6:15"
-            ],
+            "nameLocations": ["712:6:15"],
             "nodeType": "IdentifierPath",
             "referencedDeclaration": 2978,
             "src": "712:6:15"
@@ -531,9 +504,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    3013
-                  ],
+                  "assignments": [3013],
                   "declarations": [
                     {
                       "constant": false,
@@ -568,9 +539,7 @@
                   "src": "1420:14:15"
                 },
                 {
-                  "assignments": [
-                    3016
-                  ],
+                  "assignments": [3016],
                   "declarations": [
                     {
                       "constant": false,
@@ -605,9 +574,7 @@
                   "src": "1440:19:15"
                 },
                 {
-                  "assignments": [
-                    3019
-                  ],
+                  "assignments": [3019],
                   "declarations": [
                     {
                       "constant": false,
@@ -648,9 +615,7 @@
                     "src": "1663:914:15",
                     "statements": [
                       {
-                        "assignments": [
-                          3030
-                        ],
+                        "assignments": [3030],
                         "declarations": [
                           {
                             "constant": false,
@@ -1359,9 +1324,7 @@
                   },
                   "id": 3082,
                   "initializationExpression": {
-                    "assignments": [
-                      3022
-                    ],
+                    "assignments": [3022],
                     "declarations": [
                       {
                         "constant": false,
@@ -1516,9 +1479,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    3092
-                  ],
+                  "assignments": [3092],
                   "declarations": [
                     {
                       "constant": false,
@@ -2068,9 +2029,7 @@
                       "pathNode": {
                         "id": 2993,
                         "name": "SchemaType",
-                        "nameLocations": [
-                          "1263:10:15"
-                        ],
+                        "nameLocations": ["1263:10:15"],
                         "nodeType": "IdentifierPath",
                         "referencedDeclaration": 64550,
                         "src": "1263:10:15"
@@ -2120,9 +2079,7 @@
                     "pathNode": {
                       "id": 2998,
                       "name": "Schema",
-                      "nameLocations": [
-                        "1315:6:15"
-                      ],
+                      "nameLocations": ["1315:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "1315:6:15"
@@ -2157,16 +2114,11 @@
           "text": " @dev Static utility functions for handling Schemas."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          3133
-        ],
+        "linearizedBaseContracts": [3133],
         "name": "SchemaLib",
         "nameLocation": "799:9:15",
         "scope": 3447,
-        "usedErrors": [
-          2988,
-          2991
-        ],
+        "usedErrors": [2988, 2991],
         "usedEvents": []
       },
       {
@@ -2384,9 +2336,7 @@
                     "pathNode": {
                       "id": 3136,
                       "name": "Schema",
-                      "nameLocations": [
-                        "3594:6:15"
-                      ],
+                      "nameLocations": ["3594:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "3594:6:15"
@@ -2838,9 +2788,7 @@
                     "pathNode": {
                       "id": 3157,
                       "name": "Schema",
-                      "nameLocations": [
-                        "3965:6:15"
-                      ],
+                      "nameLocations": ["3965:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "3965:6:15"
@@ -2909,9 +2857,7 @@
                     "pathNode": {
                       "id": 3163,
                       "name": "SchemaType",
-                      "nameLocations": [
-                        "4018:10:15"
-                      ],
+                      "nameLocations": ["4018:10:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 64550,
                       "src": "4018:10:15"
@@ -3171,9 +3117,7 @@
                     "pathNode": {
                       "id": 3193,
                       "name": "Schema",
-                      "nameLocations": [
-                        "4354:6:15"
-                      ],
+                      "nameLocations": ["4354:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "4354:6:15"
@@ -3467,9 +3411,7 @@
                     "pathNode": {
                       "id": 3216,
                       "name": "Schema",
-                      "nameLocations": [
-                        "4687:6:15"
-                      ],
+                      "nameLocations": ["4687:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "4687:6:15"
@@ -3971,9 +3913,7 @@
                     "pathNode": {
                       "id": 3239,
                       "name": "Schema",
-                      "nameLocations": [
-                        "4996:6:15"
-                      ],
+                      "nameLocations": ["4996:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "4996:6:15"
@@ -4227,9 +4167,7 @@
                     "pathNode": {
                       "id": 3276,
                       "name": "Schema",
-                      "nameLocations": [
-                        "5422:6:15"
-                      ],
+                      "nameLocations": ["5422:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "5422:6:15"
@@ -4468,9 +4406,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    3317
-                  ],
+                  "assignments": [3317],
                   "declarations": [
                     {
                       "constant": false,
@@ -4669,9 +4605,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    3333
-                  ],
+                  "assignments": [3333],
                   "declarations": [
                     {
                       "constant": false,
@@ -4753,9 +4687,7 @@
                   "src": "6103:51:15"
                 },
                 {
-                  "assignments": [
-                    3339
-                  ],
+                  "assignments": [3339],
                   "declarations": [
                     {
                       "constant": false,
@@ -4949,9 +4881,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    3355
-                  ],
+                  "assignments": [3355],
                   "declarations": [
                     {
                       "constant": false,
@@ -4986,9 +4916,7 @@
                   "src": "6448:25:15"
                 },
                 {
-                  "assignments": [
-                    3358
-                  ],
+                  "assignments": [3358],
                   "declarations": [
                     {
                       "constant": false,
@@ -5542,9 +5470,7 @@
                   },
                   "id": 3408,
                   "initializationExpression": {
-                    "assignments": [
-                      3361
-                    ],
+                    "assignments": [3361],
                     "declarations": [
                       {
                         "constant": false,
@@ -5853,9 +5779,7 @@
                     "pathNode": {
                       "id": 3296,
                       "name": "Schema",
-                      "nameLocations": [
-                        "5707:6:15"
-                      ],
+                      "nameLocations": ["5707:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "5707:6:15"
@@ -6029,9 +5953,7 @@
                     "pathNode": {
                       "id": 3432,
                       "name": "Schema",
-                      "nameLocations": [
-                        "7574:6:15"
-                      ],
+                      "nameLocations": ["7574:6:15"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2978,
                       "src": "7574:6:15"
@@ -6100,9 +6022,7 @@
           "text": " @dev Instance utility functions for handling a Schema instance."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          3446
-        ],
+        "linearizedBaseContracts": [3446],
         "name": "SchemaInstance",
         "nameLocation": "3393:14:15",
         "scope": 3447,

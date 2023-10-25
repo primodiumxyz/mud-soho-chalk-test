@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides functions to encode data into the ResourceId\",\"kind\":\"dev\",\"methods\":{},\"title\":\"ResourceIdLib Library\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol\":\"ResourceIdLib\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides functions to encode data into the ResourceId\",\"kind\":\"dev\",\"methods\":{},\"title\":\"ResourceIdLib Library\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol\":\"ResourceIdLib\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol": "ResourceIdLib"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol": "ResourceIdLib"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol": {
         "keccak256": "0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed",
         "urls": [
           "bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d",
@@ -61,27 +61,15 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol",
     "id": 2967,
     "exportedSymbols": {
-      "NAME_BITS": [
-        2909
-      ],
-      "ResourceId": [
-        2895
-      ],
-      "ResourceIdInstance": [
-        2966
-      ],
-      "ResourceIdLib": [
-        2946
-      ],
-      "TYPE_BITS": [
-        2901
-      ],
-      "TYPE_MASK": [
-        2916
-      ]
+      "NAME_BITS": [2909],
+      "ResourceId": [2895],
+      "ResourceIdInstance": [2966],
+      "ResourceIdLib": [2946],
+      "TYPE_BITS": [2901],
+      "TYPE_MASK": [2916]
     },
     "nodeType": "SourceUnit",
     "src": "32:1584:14",
@@ -91,12 +79,7 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:14",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 2895,
@@ -742,9 +725,7 @@
                     "pathNode": {
                       "id": 2924,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1032:10:14"
-                      ],
+                      "nameLocations": ["1032:10:14"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1032:10:14"
@@ -779,9 +760,7 @@
           "text": " @title ResourceIdLib Library\n @dev Provides functions to encode data into the ResourceId"
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          2946
-        ],
+        "linearizedBaseContracts": [2946],
         "name": "ResourceIdLib",
         "nameLocation": "676:13:14",
         "scope": 2967,
@@ -957,9 +936,7 @@
                     "pathNode": {
                       "id": 2949,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1504:10:14"
-                      ],
+                      "nameLocations": ["1504:10:14"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1504:10:14"
@@ -1028,9 +1005,7 @@
           "text": " @title ResourceIdInstance Library\n @dev Provides functions to extract data from a ResourceId."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          2966
-        ],
+        "linearizedBaseContracts": [2966],
         "name": "ResourceIdInstance",
         "nameLocation": "1244:18:14",
         "scope": 2967,

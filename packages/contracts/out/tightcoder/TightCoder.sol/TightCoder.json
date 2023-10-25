@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides low-level generic implementations of tight encoding and decoding for arrays. This is consistent with Solidity's internal tight encoding for array data in storage.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"TightCoder\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":\"TightCoder\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides low-level generic implementations of tight encoding and decoding for arrays. This is consistent with Solidity's internal tight encoding for array data in storage.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"TightCoder\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":\"TightCoder\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": "TightCoder"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": "TightCoder"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
         "keccak256": "0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7",
         "urls": [
           "bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5",
@@ -57,7 +57,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": {
         "keccak256": "0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32",
         "urls": [
           "bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c",
@@ -65,7 +65,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
         "keccak256": "0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f",
         "urls": [
           "bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401",
@@ -73,7 +73,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol": {
         "keccak256": "0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04",
         "urls": [
           "bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1",
@@ -81,7 +81,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": {
         "keccak256": "0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b",
         "urls": [
           "bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256",
@@ -93,18 +93,12 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol",
     "id": 20049,
     "exportedSymbols": {
-      "Slice": [
-        3454
-      ],
-      "SliceLib": [
-        3599
-      ],
-      "TightCoder": [
-        20048
-      ]
+      "Slice": [3454],
+      "SliceLib": [3599],
+      "TightCoder": [20048]
     },
     "nodeType": "SourceUnit",
     "src": "32:3729:31",
@@ -114,19 +108,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:31",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 19981,
         "nodeType": "ImportDirective",
         "src": "59:47:31",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol",
         "file": "../Slice.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 20049,
@@ -176,9 +165,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19996
-                  ],
+                  "assignments": [19996],
                   "declarations": [
                     {
                       "constant": false,
@@ -240,9 +227,7 @@
                   "src": "934:34:31"
                 },
                 {
-                  "assignments": [
-                    20001
-                  ],
+                  "assignments": [20001],
                   "declarations": [
                     {
                       "constant": false,
@@ -1141,9 +1126,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20024
-                  ],
+                  "assignments": [20024],
                   "declarations": [
                     {
                       "constant": false,
@@ -1225,9 +1208,7 @@
                   "src": "2781:45:31"
                 },
                 {
-                  "assignments": [
-                    20030
-                  ],
+                  "assignments": [20030],
                   "declarations": [
                     {
                       "constant": false,
@@ -1309,9 +1290,7 @@
                   "src": "2832:43:31"
                 },
                 {
-                  "assignments": [
-                    20036
-                  ],
+                  "assignments": [20036],
                   "declarations": [
                     {
                       "constant": false,
@@ -1986,9 +1965,7 @@
                     "pathNode": {
                       "id": 20011,
                       "name": "Slice",
-                      "nameLocations": [
-                        "2652:5:31"
-                      ],
+                      "nameLocations": ["2652:5:31"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "2652:5:31"
@@ -2120,9 +2097,7 @@
           "text": " @title TightCoder\n @dev Provides low-level generic implementations of tight encoding and decoding for arrays.\n This is consistent with Solidity's internal tight encoding for array data in storage."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          20048
-        ],
+        "linearizedBaseContracts": [20048],
         "name": "TightCoder",
         "nameLocation": "328:10:31",
         "scope": 20049,

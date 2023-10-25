@@ -448,7 +448,7 @@
     "spliceDynamicData(bytes32,bytes32[],uint8,uint40,uint40,bytes)": "c0a2895a",
     "spliceStaticData(bytes32,bytes32[],uint48,bytes)": "b047c1eb"
   },
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"}],\"name\":\"Store_DeleteRecord\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"staticData\",\"type\":\"bytes\"},{\"indexed\":false,\"internalType\":\"PackedCounter\",\"name\":\"encodedLengths\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"dynamicData\",\"type\":\"bytes\"}],\"name\":\"Store_SetRecord\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"indexed\":false,\"internalType\":\"uint48\",\"name\":\"start\",\"type\":\"uint48\"},{\"indexed\":false,\"internalType\":\"uint40\",\"name\":\"deleteCount\",\"type\":\"uint40\"},{\"indexed\":false,\"internalType\":\"PackedCounter\",\"name\":\"encodedLengths\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"Store_SpliceDynamicData\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"indexed\":false,\"internalType\":\"uint48\",\"name\":\"start\",\"type\":\"uint48\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"Store_SpliceStaticData\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"}],\"name\":\"deleteRecord\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"uint256\",\"name\":\"byteLengthToPop\",\"type\":\"uint256\"}],\"name\":\"popFromDynamicField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"dataToPush\",\"type\":\"bytes\"}],\"name\":\"pushToDynamicField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"setDynamicField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"fieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"setField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"fieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"},{\"internalType\":\"FieldLayout\",\"name\":\"fieldLayout\",\"type\":\"bytes32\"}],\"name\":\"setField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"bytes\",\"name\":\"staticData\",\"type\":\"bytes\"},{\"internalType\":\"PackedCounter\",\"name\":\"encodedLengths\",\"type\":\"bytes32\"},{\"internalType\":\"bytes\",\"name\":\"dynamicData\",\"type\":\"bytes\"}],\"name\":\"setRecord\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"fieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"},{\"internalType\":\"FieldLayout\",\"name\":\"fieldLayout\",\"type\":\"bytes32\"}],\"name\":\"setStaticField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"uint40\",\"name\":\"startWithinField\",\"type\":\"uint40\"},{\"internalType\":\"uint40\",\"name\":\"deleteCount\",\"type\":\"uint40\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"spliceDynamicData\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint48\",\"name\":\"start\",\"type\":\"uint48\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"spliceStaticData\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"events\":{\"Store_DeleteRecord(bytes32,bytes32[])\":{\"params\":{\"keyTuple\":\"An array representing the composite key for the record.\",\"tableId\":\"The ID of the table where the record is deleted.\"}},\"Store_SetRecord(bytes32,bytes32[],bytes,bytes32,bytes)\":{\"params\":{\"dynamicData\":\"The dynamic data of the record.\",\"encodedLengths\":\"The encoded lengths of the dynamic data of the record.\",\"keyTuple\":\"An array representing the composite key for the record.\",\"staticData\":\"The static data of the record.\",\"tableId\":\"The ID of the table where the record is set.\"}},\"Store_SpliceDynamicData(bytes32,bytes32[],uint48,uint40,bytes32,bytes)\":{\"params\":{\"data\":\"The data to insert into the dynamic data of the record at the start byte.\",\"deleteCount\":\"The number of bytes to delete in the splice operation.\",\"encodedLengths\":\"The encoded lengths of the dynamic data of the record.\",\"keyTuple\":\"An array representing the composite key for the record.\",\"start\":\"The start position in bytes for the splice operation.\",\"tableId\":\"The ID of the table where the data is spliced.\"}},\"Store_SpliceStaticData(bytes32,bytes32[],uint48,bytes)\":{\"details\":\"In static data, data is always overwritten starting at the start position, so the total length of the data remains the same and no data is shifted.\",\"params\":{\"data\":\"The data to write to the static data of the record at the start byte.\",\"keyTuple\":\"An array representing the key for the record.\",\"start\":\"The start position in bytes for the splice operation.\",\"tableId\":\"The ID of the table where the data is spliced.\"}}},\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"events\":{\"Store_DeleteRecord(bytes32,bytes32[])\":{\"notice\":\"Emitted when a record is deleted from the store.\"},\"Store_SetRecord(bytes32,bytes32[],bytes,bytes32,bytes)\":{\"notice\":\"Emitted when a new record is set in the store.\"},\"Store_SpliceDynamicData(bytes32,bytes32[],uint48,uint40,bytes32,bytes)\":{\"notice\":\"Emitted when dynamic data in the store is spliced.\"},\"Store_SpliceStaticData(bytes32,bytes32[],uint48,bytes)\":{\"notice\":\"Emitted when static data in the store is spliced.\"}},\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol\":\"IStoreWrite\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol\":{\"keccak256\":\"0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba\",\"dweb:/ipfs/QmXoqrCGDSkuFgNSMURRFdjokjREL78nLDzNaUi6rjefy9\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreEvents.sol\":{\"keccak256\":\"0xdd3104680808f975462a85cbd4fa87783ba5395797419caeeca37e8f8627a16f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://943864b7eb16ad2047ade5a8598e85c8a4b46d1aed6aef02bfb7cee8de732b4d\",\"dweb:/ipfs/QmTEij4caToSNk15PFpubXYDy9QhwmPyP9tMXjUse2cTdv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol\":{\"keccak256\":\"0x8b6c7af5ee330928aebb58c8872d3944304ee10ed11f8a325b6accc4ec5df81b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://b866d158701c7a40834bed735194b804ef219f2bbe574e2307785fff7bcf9da1\",\"dweb:/ipfs/QmXzJfZkXVfyr2RFGwDuazeVnV3UWYmQxjKZ3KzFbbe75U\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol\":{\"keccak256\":\"0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0\",\"dweb:/ipfs/QmNkyzDobVQLoq9BtQ8HtgsPLiqnmi97EZx1wsu6wp8nKH\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"}],\"name\":\"Store_DeleteRecord\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"staticData\",\"type\":\"bytes\"},{\"indexed\":false,\"internalType\":\"PackedCounter\",\"name\":\"encodedLengths\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"dynamicData\",\"type\":\"bytes\"}],\"name\":\"Store_SetRecord\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"indexed\":false,\"internalType\":\"uint48\",\"name\":\"start\",\"type\":\"uint48\"},{\"indexed\":false,\"internalType\":\"uint40\",\"name\":\"deleteCount\",\"type\":\"uint40\"},{\"indexed\":false,\"internalType\":\"PackedCounter\",\"name\":\"encodedLengths\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"Store_SpliceDynamicData\",\"type\":\"event\"},{\"anonymous\":false,\"inputs\":[{\"indexed\":true,\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"indexed\":false,\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"indexed\":false,\"internalType\":\"uint48\",\"name\":\"start\",\"type\":\"uint48\"},{\"indexed\":false,\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"Store_SpliceStaticData\",\"type\":\"event\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"}],\"name\":\"deleteRecord\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"uint256\",\"name\":\"byteLengthToPop\",\"type\":\"uint256\"}],\"name\":\"popFromDynamicField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"dataToPush\",\"type\":\"bytes\"}],\"name\":\"pushToDynamicField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"setDynamicField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"fieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"setField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"fieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"},{\"internalType\":\"FieldLayout\",\"name\":\"fieldLayout\",\"type\":\"bytes32\"}],\"name\":\"setField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"bytes\",\"name\":\"staticData\",\"type\":\"bytes\"},{\"internalType\":\"PackedCounter\",\"name\":\"encodedLengths\",\"type\":\"bytes32\"},{\"internalType\":\"bytes\",\"name\":\"dynamicData\",\"type\":\"bytes\"}],\"name\":\"setRecord\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"fieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"},{\"internalType\":\"FieldLayout\",\"name\":\"fieldLayout\",\"type\":\"bytes32\"}],\"name\":\"setStaticField\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint8\",\"name\":\"dynamicFieldIndex\",\"type\":\"uint8\"},{\"internalType\":\"uint40\",\"name\":\"startWithinField\",\"type\":\"uint40\"},{\"internalType\":\"uint40\",\"name\":\"deleteCount\",\"type\":\"uint40\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"spliceDynamicData\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"tableId\",\"type\":\"bytes32\"},{\"internalType\":\"bytes32[]\",\"name\":\"keyTuple\",\"type\":\"bytes32[]\"},{\"internalType\":\"uint48\",\"name\":\"start\",\"type\":\"uint48\"},{\"internalType\":\"bytes\",\"name\":\"data\",\"type\":\"bytes\"}],\"name\":\"spliceStaticData\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"events\":{\"Store_DeleteRecord(bytes32,bytes32[])\":{\"params\":{\"keyTuple\":\"An array representing the composite key for the record.\",\"tableId\":\"The ID of the table where the record is deleted.\"}},\"Store_SetRecord(bytes32,bytes32[],bytes,bytes32,bytes)\":{\"params\":{\"dynamicData\":\"The dynamic data of the record.\",\"encodedLengths\":\"The encoded lengths of the dynamic data of the record.\",\"keyTuple\":\"An array representing the composite key for the record.\",\"staticData\":\"The static data of the record.\",\"tableId\":\"The ID of the table where the record is set.\"}},\"Store_SpliceDynamicData(bytes32,bytes32[],uint48,uint40,bytes32,bytes)\":{\"params\":{\"data\":\"The data to insert into the dynamic data of the record at the start byte.\",\"deleteCount\":\"The number of bytes to delete in the splice operation.\",\"encodedLengths\":\"The encoded lengths of the dynamic data of the record.\",\"keyTuple\":\"An array representing the composite key for the record.\",\"start\":\"The start position in bytes for the splice operation.\",\"tableId\":\"The ID of the table where the data is spliced.\"}},\"Store_SpliceStaticData(bytes32,bytes32[],uint48,bytes)\":{\"details\":\"In static data, data is always overwritten starting at the start position, so the total length of the data remains the same and no data is shifted.\",\"params\":{\"data\":\"The data to write to the static data of the record at the start byte.\",\"keyTuple\":\"An array representing the key for the record.\",\"start\":\"The start position in bytes for the splice operation.\",\"tableId\":\"The ID of the table where the data is spliced.\"}}},\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"events\":{\"Store_DeleteRecord(bytes32,bytes32[])\":{\"notice\":\"Emitted when a record is deleted from the store.\"},\"Store_SetRecord(bytes32,bytes32[],bytes,bytes32,bytes)\":{\"notice\":\"Emitted when a new record is set in the store.\"},\"Store_SpliceDynamicData(bytes32,bytes32[],uint48,uint40,bytes32,bytes)\":{\"notice\":\"Emitted when dynamic data in the store is spliced.\"},\"Store_SpliceStaticData(bytes32,bytes32[],uint48,bytes)\":{\"notice\":\"Emitted when static data in the store is spliced.\"}},\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol\":\"IStoreWrite\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol\":{\"keccak256\":\"0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba\",\"dweb:/ipfs/QmXoqrCGDSkuFgNSMURRFdjokjREL78nLDzNaUi6rjefy9\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreEvents.sol\":{\"keccak256\":\"0xdd3104680808f975462a85cbd4fa87783ba5395797419caeeca37e8f8627a16f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://943864b7eb16ad2047ade5a8598e85c8a4b46d1aed6aef02bfb7cee8de732b4d\",\"dweb:/ipfs/QmTEij4caToSNk15PFpubXYDy9QhwmPyP9tMXjUse2cTdv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol\":{\"keccak256\":\"0x8b6c7af5ee330928aebb58c8872d3944304ee10ed11f8a325b6accc4ec5df81b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://b866d158701c7a40834bed735194b804ef219f2bbe574e2307785fff7bcf9da1\",\"dweb:/ipfs/QmXzJfZkXVfyr2RFGwDuazeVnV3UWYmQxjKZ3KzFbbe75U\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol\":{\"keccak256\":\"0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0\",\"dweb:/ipfs/QmNkyzDobVQLoq9BtQ8HtgsPLiqnmi97EZx1wsu6wp8nKH\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -897,12 +897,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol": "IStoreWrite"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol": "IStoreWrite"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol": {
         "keccak256": "0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0",
         "urls": [
           "bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba",
@@ -910,7 +910,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreEvents.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreEvents.sol": {
         "keccak256": "0xdd3104680808f975462a85cbd4fa87783ba5395797419caeeca37e8f8627a16f",
         "urls": [
           "bzz-raw://943864b7eb16ad2047ade5a8598e85c8a4b46d1aed6aef02bfb7cee8de732b4d",
@@ -918,7 +918,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol": {
         "keccak256": "0x8b6c7af5ee330928aebb58c8872d3944304ee10ed11f8a325b6accc4ec5df81b",
         "urls": [
           "bzz-raw://b866d158701c7a40834bed735194b804ef219f2bbe574e2307785fff7bcf9da1",
@@ -926,7 +926,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol": {
         "keccak256": "0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb",
         "urls": [
           "bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0",
@@ -934,7 +934,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol": {
         "keccak256": "0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed",
         "urls": [
           "bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d",
@@ -942,7 +942,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol": {
         "keccak256": "0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076",
         "urls": [
           "bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793",
@@ -954,24 +954,14 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreWrite.sol",
     "id": 2207,
     "exportedSymbols": {
-      "FieldLayout": [
-        814
-      ],
-      "IStoreEvents": [
-        1613
-      ],
-      "IStoreWrite": [
-        2206
-      ],
-      "PackedCounter": [
-        2268
-      ],
-      "ResourceId": [
-        2895
-      ]
+      "FieldLayout": [814],
+      "IStoreEvents": [1613],
+      "IStoreWrite": [2206],
+      "PackedCounter": [2268],
+      "ResourceId": [2895]
     },
     "nodeType": "SourceUnit",
     "src": "32:2225:11",
@@ -981,19 +971,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:11",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 2058,
         "nodeType": "ImportDirective",
         "src": "59:50:11",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreEvents.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/IStoreEvents.sol",
         "file": "./IStoreEvents.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 2207,
@@ -1019,7 +1004,7 @@
         "nodeType": "ImportDirective",
         "src": "110:52:11",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol",
         "file": "./PackedCounter.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 2207,
@@ -1045,7 +1030,7 @@
         "nodeType": "ImportDirective",
         "src": "163:48:11",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol",
         "file": "./FieldLayout.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 2207,
@@ -1071,7 +1056,7 @@
         "nodeType": "ImportDirective",
         "src": "212:46:11",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/ResourceId.sol",
         "file": "./ResourceId.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 2207,
@@ -1133,9 +1118,7 @@
                     "pathNode": {
                       "id": 2067,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "377:10:11"
-                      ],
+                      "nameLocations": ["377:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "377:10:11"
@@ -1233,9 +1216,7 @@
                     "pathNode": {
                       "id": 2075,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "465:13:11"
-                      ],
+                      "nameLocations": ["465:13:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "465:13:11"
@@ -1326,9 +1307,7 @@
                     "pathNode": {
                       "id": 2083,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "624:10:11"
-                      ],
+                      "nameLocations": ["624:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "624:10:11"
@@ -1482,9 +1461,7 @@
                     "pathNode": {
                       "id": 2096,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "819:10:11"
-                      ],
+                      "nameLocations": ["819:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "819:10:11"
@@ -1692,9 +1669,7 @@
                     "pathNode": {
                       "id": 2113,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1050:10:11"
-                      ],
+                      "nameLocations": ["1050:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1050:10:11"
@@ -1848,9 +1823,7 @@
                     "pathNode": {
                       "id": 2126,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1211:10:11"
-                      ],
+                      "nameLocations": ["1211:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1211:10:11"
@@ -1975,9 +1948,7 @@
                     "pathNode": {
                       "id": 2136,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "1315:11:11"
-                      ],
+                      "nameLocations": ["1315:11:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "1315:11:11"
@@ -2041,9 +2012,7 @@
                     "pathNode": {
                       "id": 2142,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1385:10:11"
-                      ],
+                      "nameLocations": ["1385:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1385:10:11"
@@ -2168,9 +2137,7 @@
                     "pathNode": {
                       "id": 2152,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "1489:11:11"
-                      ],
+                      "nameLocations": ["1489:11:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "1489:11:11"
@@ -2234,9 +2201,7 @@
                     "pathNode": {
                       "id": 2158,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1560:10:11"
-                      ],
+                      "nameLocations": ["1560:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1560:10:11"
@@ -2390,9 +2355,7 @@
                     "pathNode": {
                       "id": 2171,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1776:10:11"
-                      ],
+                      "nameLocations": ["1776:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1776:10:11"
@@ -2546,9 +2509,7 @@
                     "pathNode": {
                       "id": 2184,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "1998:10:11"
-                      ],
+                      "nameLocations": ["1998:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "1998:10:11"
@@ -2702,9 +2663,7 @@
                     "pathNode": {
                       "id": 2197,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "2198:10:11"
-                      ],
+                      "nameLocations": ["2198:10:11"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2895,
                       "src": "2198:10:11"
@@ -2775,9 +2734,7 @@
             "baseName": {
               "id": 2065,
               "name": "IStoreEvents",
-              "nameLocations": [
-                "285:12:11"
-              ],
+              "nameLocations": ["285:12:11"],
               "nodeType": "IdentifierPath",
               "referencedDeclaration": 1613,
               "src": "285:12:11"
@@ -2791,20 +2748,12 @@
         "contractDependencies": [],
         "contractKind": "interface",
         "fullyImplemented": false,
-        "linearizedBaseContracts": [
-          2206,
-          1613
-        ],
+        "linearizedBaseContracts": [2206, 1613],
         "name": "IStoreWrite",
         "nameLocation": "270:11:11",
         "scope": 2207,
         "usedErrors": [],
-        "usedEvents": [
-          1572,
-          1585,
-          1603,
-          1612
-        ]
+        "usedEvents": [1572, 1585, 1603, 1612]
       }
     ],
     "license": "MIT"

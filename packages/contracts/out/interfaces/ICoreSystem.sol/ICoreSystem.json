@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"This interface is automatically generated from the corresponding system contract. Do not edit manually.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"ICoreSystem\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol\":\"ICoreSystem\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol\":{\"keccak256\":\"0xf837b53eaa348da3b3650e0b7159de02d3f84897d96e487ece2f932c272dbe57\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://fbdc52e9e519c8c6d4a00caf4de08688eb8eb34dbfc6236308f281d7cf05b51b\",\"dweb:/ipfs/QmWnogXiA5KA6JGxCTJR5W1MNFowrH7baSAYhSXjV1xM47\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"This interface is automatically generated from the corresponding system contract. Do not edit manually.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"ICoreSystem\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol\":\"ICoreSystem\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol\":{\"keccak256\":\"0xf837b53eaa348da3b3650e0b7159de02d3f84897d96e487ece2f932c272dbe57\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://fbdc52e9e519c8c6d4a00caf4de08688eb8eb34dbfc6236308f281d7cf05b51b\",\"dweb:/ipfs/QmWnogXiA5KA6JGxCTJR5W1MNFowrH7baSAYhSXjV1xM47\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol": "ICoreSystem"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol": "ICoreSystem"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol": {
         "keccak256": "0xf837b53eaa348da3b3650e0b7159de02d3f84897d96e487ece2f932c272dbe57",
         "urls": [
           "bzz-raw://fbdc52e9e519c8c6d4a00caf4de08688eb8eb34dbfc6236308f281d7cf05b51b",
@@ -61,12 +61,10 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/ICoreSystem.sol",
     "id": 23582,
     "exportedSymbols": {
-      "ICoreSystem": [
-        23581
-      ]
+      "ICoreSystem": [23581]
     },
     "nodeType": "SourceUnit",
     "src": "32:245:47",
@@ -76,12 +74,7 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:47",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 23581,
@@ -100,9 +93,7 @@
           "text": " @title ICoreSystem\n @dev This interface is automatically generated from the corresponding system contract. Do not edit manually."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          23581
-        ],
+        "linearizedBaseContracts": [23581],
         "name": "ICoreSystem",
         "nameLocation": "260:11:47",
         "scope": 23582,

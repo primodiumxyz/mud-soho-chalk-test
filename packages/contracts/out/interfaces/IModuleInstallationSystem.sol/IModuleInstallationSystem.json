@@ -32,7 +32,7 @@
   "methodIdentifiers": {
     "installModule(address,bytes)": "8da798da"
   },
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"contract IModule\",\"name\":\"module\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"args\",\"type\":\"bytes\"}],\"name\":\"installModule\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"details\":\"This interface is automatically generated from the corresponding system contract. Do not edit manually.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"IModuleInstallationSystem\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol\":\"IModuleInstallationSystem\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/IERC165.sol\":{\"keccak256\":\"0x7997ebbdee6a2493f28e7032c7a8b906ade40f807d95734e2653c8f1b023ff47\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://c8ca41bb2619bf27e5bf886d1322f0e2dffd096c49f7ae6e716541dd1e1ddce5\",\"dweb:/ipfs/Qmb8zATUWWTtiWaSLjbAe6PGnJPes9ANvEyk7pYoWR3P3Y\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/IModule.sol\":{\"keccak256\":\"0x73d09aa23c35f05ecfcd474413e410bf946e2d251ab43fa07802d0c1c3cef87b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://c0505aaf0e9b10a21e75c7515f88bbc74dd96b1166e9f811c9edf764eba37579\",\"dweb:/ipfs/QmX4KB2c4mmBWVt3CLiHqosadwgTLttJLQouxGxVHsVC8W\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol\":{\"keccak256\":\"0x5be1d1ee90a7a03258e8c4fce7542453332c637a51b015e0cc29151ef2792263\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://df6d97356b2ca9d97b7593f4c0772742529fea73f1665e55a879a368b399cae0\",\"dweb:/ipfs/QmXCs5X4Z95isKRzjP4TQjQxwiB7773tHiJWLWkjLv3SLj\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"contract IModule\",\"name\":\"module\",\"type\":\"address\"},{\"internalType\":\"bytes\",\"name\":\"args\",\"type\":\"bytes\"}],\"name\":\"installModule\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"details\":\"This interface is automatically generated from the corresponding system contract. Do not edit manually.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"IModuleInstallationSystem\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol\":\"IModuleInstallationSystem\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/IERC165.sol\":{\"keccak256\":\"0x7997ebbdee6a2493f28e7032c7a8b906ade40f807d95734e2653c8f1b023ff47\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://c8ca41bb2619bf27e5bf886d1322f0e2dffd096c49f7ae6e716541dd1e1ddce5\",\"dweb:/ipfs/Qmb8zATUWWTtiWaSLjbAe6PGnJPes9ANvEyk7pYoWR3P3Y\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/IModule.sol\":{\"keccak256\":\"0x73d09aa23c35f05ecfcd474413e410bf946e2d251ab43fa07802d0c1c3cef87b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://c0505aaf0e9b10a21e75c7515f88bbc74dd96b1166e9f811c9edf764eba37579\",\"dweb:/ipfs/QmX4KB2c4mmBWVt3CLiHqosadwgTLttJLQouxGxVHsVC8W\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol\":{\"keccak256\":\"0x5be1d1ee90a7a03258e8c4fce7542453332c637a51b015e0cc29151ef2792263\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://df6d97356b2ca9d97b7593f4c0772742529fea73f1665e55a879a368b399cae0\",\"dweb:/ipfs/QmXCs5X4Z95isKRzjP4TQjQxwiB7773tHiJWLWkjLv3SLj\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -83,12 +83,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol": "IModuleInstallationSystem"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol": "IModuleInstallationSystem"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/IERC165.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/IERC165.sol": {
         "keccak256": "0x7997ebbdee6a2493f28e7032c7a8b906ade40f807d95734e2653c8f1b023ff47",
         "urls": [
           "bzz-raw://c8ca41bb2619bf27e5bf886d1322f0e2dffd096c49f7ae6e716541dd1e1ddce5",
@@ -96,7 +96,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/IModule.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/IModule.sol": {
         "keccak256": "0x73d09aa23c35f05ecfcd474413e410bf946e2d251ab43fa07802d0c1c3cef87b",
         "urls": [
           "bzz-raw://c0505aaf0e9b10a21e75c7515f88bbc74dd96b1166e9f811c9edf764eba37579",
@@ -104,7 +104,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol": {
         "keccak256": "0x5be1d1ee90a7a03258e8c4fce7542453332c637a51b015e0cc29151ef2792263",
         "urls": [
           "bzz-raw://df6d97356b2ca9d97b7593f4c0772742529fea73f1665e55a879a368b399cae0",
@@ -116,15 +116,11 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IModuleInstallationSystem.sol",
     "id": 23596,
     "exportedSymbols": {
-      "IModule": [
-        22686
-      ],
-      "IModuleInstallationSystem": [
-        23595
-      ]
+      "IModule": [22686],
+      "IModuleInstallationSystem": [23595]
     },
     "nodeType": "SourceUnit",
     "src": "32:390:48",
@@ -134,19 +130,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:48",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 23585,
         "nodeType": "ImportDirective",
         "src": "108:46:48",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/IModule.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/IModule.sol",
         "file": "./../../IModule.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 23596,
@@ -208,9 +199,7 @@
                     "pathNode": {
                       "id": 23587,
                       "name": "IModule",
-                      "nameLocations": [
-                        "375:7:48"
-                      ],
+                      "nameLocations": ["375:7:48"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 22686,
                       "src": "375:7:48"
@@ -278,9 +267,7 @@
           "text": " @title IModuleInstallationSystem\n @dev This interface is automatically generated from the corresponding system contract. Do not edit manually."
         },
         "fullyImplemented": false,
-        "linearizedBaseContracts": [
-          23595
-        ],
+        "linearizedBaseContracts": [23595],
         "name": "IModuleInstallationSystem",
         "nameLocation": "322:25:48",
         "scope": 23596,

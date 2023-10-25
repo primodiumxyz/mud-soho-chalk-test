@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides instance functions for obtaining information from an encoded FieldLayout.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"FieldLayoutInstance\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol\":\"FieldLayoutInstance\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol\":{\"keccak256\":\"0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba\",\"dweb:/ipfs/QmXoqrCGDSkuFgNSMURRFdjokjREL78nLDzNaUi6rjefy9\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides instance functions for obtaining information from an encoded FieldLayout.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"FieldLayoutInstance\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol\":\"FieldLayoutInstance\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol\":{\"keccak256\":\"0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba\",\"dweb:/ipfs/QmXoqrCGDSkuFgNSMURRFdjokjREL78nLDzNaUi6rjefy9\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol": "FieldLayoutInstance"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol": "FieldLayoutInstance"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol": {
         "keccak256": "0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0",
         "urls": [
           "bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba",
@@ -57,7 +57,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol": {
         "keccak256": "0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076",
         "urls": [
           "bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793",
@@ -69,36 +69,18 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/FieldLayout.sol",
     "id": 1234,
     "exportedSymbols": {
-      "BYTE_TO_BITS": [
-        15088
-      ],
-      "FieldLayout": [
-        814
-      ],
-      "FieldLayoutInstance": [
-        1233
-      ],
-      "FieldLayoutLib": [
-        959
-      ],
-      "LayoutOffsets": [
-        15135
-      ],
-      "MAX_DYNAMIC_FIELDS": [
-        15100
-      ],
-      "MAX_TOTAL_FIELDS": [
-        15092
-      ],
-      "WORD_LAST_INDEX": [
-        15084
-      ],
-      "WORD_SIZE": [
-        15080
-      ]
+      "BYTE_TO_BITS": [15088],
+      "FieldLayout": [814],
+      "FieldLayoutInstance": [1233],
+      "FieldLayoutLib": [959],
+      "LayoutOffsets": [15135],
+      "MAX_DYNAMIC_FIELDS": [15100],
+      "MAX_TOTAL_FIELDS": [15092],
+      "WORD_LAST_INDEX": [15084],
+      "WORD_SIZE": [15080]
     },
     "nodeType": "SourceUnit",
     "src": "32:7924:1",
@@ -108,19 +90,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:1",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 812,
         "nodeType": "ImportDirective",
         "src": "59:128:1",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/constants.sol",
         "file": "./constants.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 1234,
@@ -229,9 +206,7 @@
         "libraryName": {
           "id": 815,
           "name": "FieldLayoutInstance",
-          "nameLocations": [
-            "711:19:1"
-          ],
+          "nameLocations": ["711:19:1"],
           "nodeType": "IdentifierPath",
           "referencedDeclaration": 1233,
           "src": "711:19:1"
@@ -242,9 +217,7 @@
           "pathNode": {
             "id": 816,
             "name": "FieldLayout",
-            "nameLocations": [
-              "735:11:1"
-            ],
+            "nameLocations": ["735:11:1"],
             "nodeType": "IdentifierPath",
             "referencedDeclaration": 814,
             "src": "735:11:1"
@@ -347,9 +320,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    840
-                  ],
+                  "assignments": [840],
                   "declarations": [
                     {
                       "constant": false,
@@ -384,9 +355,7 @@
                   "src": "1749:19:1"
                 },
                 {
-                  "assignments": [
-                    843
-                  ],
+                  "assignments": [843],
                   "declarations": [
                     {
                       "constant": false,
@@ -421,9 +390,7 @@
                   "src": "1774:19:1"
                 },
                 {
-                  "assignments": [
-                    846
-                  ],
+                  "assignments": [846],
                   "declarations": [
                     {
                       "constant": false,
@@ -723,9 +690,7 @@
                     "src": "2201:717:1",
                     "statements": [
                       {
-                        "assignments": [
-                          877
-                        ],
+                        "assignments": [877],
                         "declarations": [
                           {
                             "constant": false,
@@ -1392,9 +1357,7 @@
                   },
                   "id": 926,
                   "initializationExpression": {
-                    "assignments": [
-                      869
-                    ],
+                    "assignments": [869],
                     "declarations": [
                       {
                         "constant": false,
@@ -1952,9 +1915,7 @@
                     "pathNode": {
                       "id": 835,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "1730:11:1"
-                      ],
+                      "nameLocations": ["1730:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "1730:11:1"
@@ -1989,17 +1950,11 @@
           "text": " @title FieldLayoutLib\n @dev A library for handling field layout encoding into a single bytes32.\n It provides a function to encode static and dynamic fields and ensure\n various constraints regarding the length and size of the fields."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          959
-        ],
+        "linearizedBaseContracts": [959],
         "name": "FieldLayoutLib",
         "nameLocation": "1014:14:1",
         "scope": 1234,
-        "usedErrors": [
-          823,
-          825,
-          827
-        ],
+        "usedErrors": [823, 825, 827],
         "usedEvents": []
       },
       {
@@ -2362,9 +2317,7 @@
                     "pathNode": {
                       "id": 962,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "3900:11:1"
-                      ],
+                      "nameLocations": ["3900:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "3900:11:1"
@@ -2657,9 +2610,7 @@
                     "pathNode": {
                       "id": 995,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "4345:11:1"
-                      ],
+                      "nameLocations": ["4345:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "4345:11:1"
@@ -2953,9 +2904,7 @@
                     "pathNode": {
                       "id": 1016,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "4725:11:1"
-                      ],
+                      "nameLocations": ["4725:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "4725:11:1"
@@ -3249,9 +3198,7 @@
                     "pathNode": {
                       "id": 1039,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "5124:11:1"
-                      ],
+                      "nameLocations": ["5124:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "5124:11:1"
@@ -3753,9 +3700,7 @@
                     "pathNode": {
                       "id": 1062,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "5497:11:1"
-                      ],
+                      "nameLocations": ["5497:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "5497:11:1"
@@ -4009,9 +3954,7 @@
                     "pathNode": {
                       "id": 1099,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "5955:11:1"
-                      ],
+                      "nameLocations": ["5955:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "5955:11:1"
@@ -4250,9 +4193,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    1140
-                  ],
+                  "assignments": [1140],
                   "declarations": [
                     {
                       "constant": false,
@@ -4451,9 +4392,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    1156
-                  ],
+                  "assignments": [1156],
                   "declarations": [
                     {
                       "constant": false,
@@ -4535,9 +4474,7 @@
                   "src": "6882:56:1"
                 },
                 {
-                  "assignments": [
-                    1162
-                  ],
+                  "assignments": [1162],
                   "declarations": [
                     {
                       "constant": false,
@@ -4737,9 +4674,7 @@
                     "src": "7271:340:1",
                     "statements": [
                       {
-                        "assignments": [
-                          1184
-                        ],
+                        "assignments": [1184],
                         "declarations": [
                           {
                             "constant": false,
@@ -5139,9 +5074,7 @@
                   },
                   "id": 1215,
                   "initializationExpression": {
-                    "assignments": [
-                      1178
-                    ],
+                    "assignments": [1178],
                     "declarations": [
                       {
                         "constant": false,
@@ -5216,9 +5149,7 @@
                     "pathNode": {
                       "id": 1119,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "6436:11:1"
-                      ],
+                      "nameLocations": ["6436:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "6436:11:1"
@@ -5392,9 +5323,7 @@
                     "pathNode": {
                       "id": 1219,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "7847:11:1"
-                      ],
+                      "nameLocations": ["7847:11:1"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 814,
                       "src": "7847:11:1"
@@ -5463,9 +5392,7 @@
           "text": " @title FieldLayoutInstance\n @dev Provides instance functions for obtaining information from an encoded FieldLayout."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          1233
-        ],
+        "linearizedBaseContracts": [1233],
         "name": "FieldLayoutInstance",
         "nameLocation": "3562:19:1",
         "scope": 1234,

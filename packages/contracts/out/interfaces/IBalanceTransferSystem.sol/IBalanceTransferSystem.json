@@ -61,7 +61,7 @@
     "transferBalanceToAddress(bytes32,address,uint256)": "45afd199",
     "transferBalanceToNamespace(bytes32,bytes32,uint256)": "c9c85a60"
   },
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"fromNamespaceId\",\"type\":\"bytes32\"},{\"internalType\":\"address\",\"name\":\"toAddress\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"transferBalanceToAddress\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"fromNamespaceId\",\"type\":\"bytes32\"},{\"internalType\":\"ResourceId\",\"name\":\"toNamespaceId\",\"type\":\"bytes32\"},{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"transferBalanceToNamespace\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"details\":\"This interface is automatically generated from the corresponding system contract. Do not edit manually.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"IBalanceTransferSystem\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol\":\"IBalanceTransferSystem\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol\":{\"keccak256\":\"0xf04594c29c5c5b3110453ac189a8008735753de864ab4a7dfa97ccd3ae5f4a55\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://4a3061f72b969a294dc96c3b2e59277e762ce6571cedcc7e280412431453dde5\",\"dweb:/ipfs/QmWB9aboakrCH9AmzGiZ1mCceh9atF4ks5ndEYFzUVbaHT\"]},\"node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"fromNamespaceId\",\"type\":\"bytes32\"},{\"internalType\":\"address\",\"name\":\"toAddress\",\"type\":\"address\"},{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"transferBalanceToAddress\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"},{\"inputs\":[{\"internalType\":\"ResourceId\",\"name\":\"fromNamespaceId\",\"type\":\"bytes32\"},{\"internalType\":\"ResourceId\",\"name\":\"toNamespaceId\",\"type\":\"bytes32\"},{\"internalType\":\"uint256\",\"name\":\"amount\",\"type\":\"uint256\"}],\"name\":\"transferBalanceToNamespace\",\"outputs\":[],\"stateMutability\":\"nonpayable\",\"type\":\"function\"}],\"devdoc\":{\"details\":\"This interface is automatically generated from the corresponding system contract. Do not edit manually.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"IBalanceTransferSystem\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol\":\"IBalanceTransferSystem\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol\":{\"keccak256\":\"0xf04594c29c5c5b3110453ac189a8008735753de864ab4a7dfa97ccd3ae5f4a55\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://4a3061f72b969a294dc96c3b2e59277e762ce6571cedcc7e280412431453dde5\",\"dweb:/ipfs/QmWB9aboakrCH9AmzGiZ1mCceh9atF4ks5ndEYFzUVbaHT\"]},\"node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -139,12 +139,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol": "IBalanceTransferSystem"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol": "IBalanceTransferSystem"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol": {
         "keccak256": "0xf04594c29c5c5b3110453ac189a8008735753de864ab4a7dfa97ccd3ae5f4a55",
         "urls": [
           "bzz-raw://4a3061f72b969a294dc96c3b2e59277e762ce6571cedcc7e280412431453dde5",
@@ -164,15 +164,11 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world/src/codegen/interfaces/IBalanceTransferSystem.sol",
     "id": 23551,
     "exportedSymbols": {
-      "IBalanceTransferSystem": [
-        23550
-      ],
-      "ResourceId": [
-        66529
-      ]
+      "IBalanceTransferSystem": [23550],
+      "ResourceId": [66529]
     },
     "nodeType": "SourceUnit",
     "src": "32:562:45",
@@ -182,12 +178,7 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:45",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 23527,
@@ -256,9 +247,7 @@
                     "pathNode": {
                       "id": 23529,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "402:10:45"
-                      ],
+                      "nameLocations": ["402:10:45"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "402:10:45"
@@ -293,9 +282,7 @@
                     "pathNode": {
                       "id": 23532,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "430:10:45"
-                      ],
+                      "nameLocations": ["430:10:45"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "430:10:45"
@@ -386,9 +373,7 @@
                     "pathNode": {
                       "id": 23540,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "519:10:45"
-                      ],
+                      "nameLocations": ["519:10:45"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "519:10:45"
@@ -484,9 +469,7 @@
           "text": " @title IBalanceTransferSystem\n @dev This interface is automatically generated from the corresponding system contract. Do not edit manually."
         },
         "fullyImplemented": false,
-        "linearizedBaseContracts": [
-          23550
-        ],
+        "linearizedBaseContracts": [23550],
         "name": "IBalanceTransferSystem",
         "nameLocation": "339:22:45",
         "scope": 23551,

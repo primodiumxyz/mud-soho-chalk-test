@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"This library provides utilities for encoding arrays into tightly packed bytes representations.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"EncodeArray\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol\":\"EncodeArray\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol\":{\"keccak256\":\"0x1c280d24360282e196d9c4833c58c2437108cea2af0ac7596f95be81389e306d\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6b4556b6eeae9328fbd9adcce346547e823c397503276a4d63effb67e00b5b49\",\"dweb:/ipfs/QmUsynVsMYzjh8oJR8YB7SRrwFMdXcsQsHBrXxLEEFxsiB\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"This library provides utilities for encoding arrays into tightly packed bytes representations.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"EncodeArray\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol\":\"EncodeArray\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol\":{\"keccak256\":\"0x1c280d24360282e196d9c4833c58c2437108cea2af0ac7596f95be81389e306d\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6b4556b6eeae9328fbd9adcce346547e823c397503276a4d63effb67e00b5b49\",\"dweb:/ipfs/QmUsynVsMYzjh8oJR8YB7SRrwFMdXcsQsHBrXxLEEFxsiB\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol": "EncodeArray"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol": "EncodeArray"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
         "keccak256": "0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7",
         "urls": [
           "bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5",
@@ -57,7 +57,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": {
         "keccak256": "0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32",
         "urls": [
           "bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c",
@@ -65,7 +65,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
         "keccak256": "0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f",
         "urls": [
           "bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401",
@@ -73,7 +73,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol": {
         "keccak256": "0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04",
         "urls": [
           "bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1",
@@ -81,7 +81,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol": {
         "keccak256": "0x1c280d24360282e196d9c4833c58c2437108cea2af0ac7596f95be81389e306d",
         "urls": [
           "bzz-raw://6b4556b6eeae9328fbd9adcce346547e823c397503276a4d63effb67e00b5b49",
@@ -89,7 +89,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": {
         "keccak256": "0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b",
         "urls": [
           "bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256",
@@ -101,15 +101,11 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol",
     "id": 19977,
     "exportedSymbols": {
-      "EncodeArray": [
-        19976
-      ],
-      "TightCoder": [
-        20048
-      ]
+      "EncodeArray": [19976],
+      "TightCoder": [20048]
     },
     "nodeType": "SourceUnit",
     "src": "32:46006:30",
@@ -119,19 +115,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:30",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 17622,
         "nodeType": "ImportDirective",
         "src": "107:46:30",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol",
         "file": "./TightCoder.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 19977,
@@ -169,9 +160,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17636
-                  ],
+                  "assignments": [17636],
                   "declarations": [
                     {
                       "constant": false,
@@ -480,9 +469,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17660
-                  ],
+                  "assignments": [17660],
                   "declarations": [
                     {
                       "constant": false,
@@ -791,9 +778,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17684
-                  ],
+                  "assignments": [17684],
                   "declarations": [
                     {
                       "constant": false,
@@ -1102,9 +1087,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17708
-                  ],
+                  "assignments": [17708],
                   "declarations": [
                     {
                       "constant": false,
@@ -1413,9 +1396,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17732
-                  ],
+                  "assignments": [17732],
                   "declarations": [
                     {
                       "constant": false,
@@ -1724,9 +1705,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17756
-                  ],
+                  "assignments": [17756],
                   "declarations": [
                     {
                       "constant": false,
@@ -2035,9 +2014,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17780
-                  ],
+                  "assignments": [17780],
                   "declarations": [
                     {
                       "constant": false,
@@ -2346,9 +2323,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17804
-                  ],
+                  "assignments": [17804],
                   "declarations": [
                     {
                       "constant": false,
@@ -2657,9 +2632,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17828
-                  ],
+                  "assignments": [17828],
                   "declarations": [
                     {
                       "constant": false,
@@ -2968,9 +2941,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17852
-                  ],
+                  "assignments": [17852],
                   "declarations": [
                     {
                       "constant": false,
@@ -3279,9 +3250,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17876
-                  ],
+                  "assignments": [17876],
                   "declarations": [
                     {
                       "constant": false,
@@ -3590,9 +3559,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17900
-                  ],
+                  "assignments": [17900],
                   "declarations": [
                     {
                       "constant": false,
@@ -3901,9 +3868,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17924
-                  ],
+                  "assignments": [17924],
                   "declarations": [
                     {
                       "constant": false,
@@ -4212,9 +4177,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17948
-                  ],
+                  "assignments": [17948],
                   "declarations": [
                     {
                       "constant": false,
@@ -4523,9 +4486,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17972
-                  ],
+                  "assignments": [17972],
                   "declarations": [
                     {
                       "constant": false,
@@ -4834,9 +4795,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    17996
-                  ],
+                  "assignments": [17996],
                   "declarations": [
                     {
                       "constant": false,
@@ -5145,9 +5104,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18020
-                  ],
+                  "assignments": [18020],
                   "declarations": [
                     {
                       "constant": false,
@@ -5456,9 +5413,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18044
-                  ],
+                  "assignments": [18044],
                   "declarations": [
                     {
                       "constant": false,
@@ -5767,9 +5722,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18068
-                  ],
+                  "assignments": [18068],
                   "declarations": [
                     {
                       "constant": false,
@@ -6078,9 +6031,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18092
-                  ],
+                  "assignments": [18092],
                   "declarations": [
                     {
                       "constant": false,
@@ -6389,9 +6340,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18116
-                  ],
+                  "assignments": [18116],
                   "declarations": [
                     {
                       "constant": false,
@@ -6700,9 +6649,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18140
-                  ],
+                  "assignments": [18140],
                   "declarations": [
                     {
                       "constant": false,
@@ -7011,9 +6958,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18164
-                  ],
+                  "assignments": [18164],
                   "declarations": [
                     {
                       "constant": false,
@@ -7322,9 +7267,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18188
-                  ],
+                  "assignments": [18188],
                   "declarations": [
                     {
                       "constant": false,
@@ -7633,9 +7576,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18212
-                  ],
+                  "assignments": [18212],
                   "declarations": [
                     {
                       "constant": false,
@@ -7944,9 +7885,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18236
-                  ],
+                  "assignments": [18236],
                   "declarations": [
                     {
                       "constant": false,
@@ -8255,9 +8194,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18260
-                  ],
+                  "assignments": [18260],
                   "declarations": [
                     {
                       "constant": false,
@@ -8566,9 +8503,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18284
-                  ],
+                  "assignments": [18284],
                   "declarations": [
                     {
                       "constant": false,
@@ -8877,9 +8812,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18308
-                  ],
+                  "assignments": [18308],
                   "declarations": [
                     {
                       "constant": false,
@@ -9188,9 +9121,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18332
-                  ],
+                  "assignments": [18332],
                   "declarations": [
                     {
                       "constant": false,
@@ -9499,9 +9430,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18356
-                  ],
+                  "assignments": [18356],
                   "declarations": [
                     {
                       "constant": false,
@@ -9810,9 +9739,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18380
-                  ],
+                  "assignments": [18380],
                   "declarations": [
                     {
                       "constant": false,
@@ -10121,9 +10048,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18404
-                  ],
+                  "assignments": [18404],
                   "declarations": [
                     {
                       "constant": false,
@@ -10432,9 +10357,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18428
-                  ],
+                  "assignments": [18428],
                   "declarations": [
                     {
                       "constant": false,
@@ -10743,9 +10666,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18452
-                  ],
+                  "assignments": [18452],
                   "declarations": [
                     {
                       "constant": false,
@@ -11054,9 +10975,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18476
-                  ],
+                  "assignments": [18476],
                   "declarations": [
                     {
                       "constant": false,
@@ -11365,9 +11284,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18500
-                  ],
+                  "assignments": [18500],
                   "declarations": [
                     {
                       "constant": false,
@@ -11676,9 +11593,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18524
-                  ],
+                  "assignments": [18524],
                   "declarations": [
                     {
                       "constant": false,
@@ -11987,9 +11902,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18548
-                  ],
+                  "assignments": [18548],
                   "declarations": [
                     {
                       "constant": false,
@@ -12298,9 +12211,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18572
-                  ],
+                  "assignments": [18572],
                   "declarations": [
                     {
                       "constant": false,
@@ -12609,9 +12520,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18596
-                  ],
+                  "assignments": [18596],
                   "declarations": [
                     {
                       "constant": false,
@@ -12920,9 +12829,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18620
-                  ],
+                  "assignments": [18620],
                   "declarations": [
                     {
                       "constant": false,
@@ -13231,9 +13138,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18644
-                  ],
+                  "assignments": [18644],
                   "declarations": [
                     {
                       "constant": false,
@@ -13542,9 +13447,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18668
-                  ],
+                  "assignments": [18668],
                   "declarations": [
                     {
                       "constant": false,
@@ -13853,9 +13756,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18692
-                  ],
+                  "assignments": [18692],
                   "declarations": [
                     {
                       "constant": false,
@@ -14164,9 +14065,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18716
-                  ],
+                  "assignments": [18716],
                   "declarations": [
                     {
                       "constant": false,
@@ -14475,9 +14374,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18740
-                  ],
+                  "assignments": [18740],
                   "declarations": [
                     {
                       "constant": false,
@@ -14786,9 +14683,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18764
-                  ],
+                  "assignments": [18764],
                   "declarations": [
                     {
                       "constant": false,
@@ -15097,9 +14992,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18788
-                  ],
+                  "assignments": [18788],
                   "declarations": [
                     {
                       "constant": false,
@@ -15408,9 +15301,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18812
-                  ],
+                  "assignments": [18812],
                   "declarations": [
                     {
                       "constant": false,
@@ -15719,9 +15610,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18836
-                  ],
+                  "assignments": [18836],
                   "declarations": [
                     {
                       "constant": false,
@@ -16030,9 +15919,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18860
-                  ],
+                  "assignments": [18860],
                   "declarations": [
                     {
                       "constant": false,
@@ -16341,9 +16228,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18884
-                  ],
+                  "assignments": [18884],
                   "declarations": [
                     {
                       "constant": false,
@@ -16652,9 +16537,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18908
-                  ],
+                  "assignments": [18908],
                   "declarations": [
                     {
                       "constant": false,
@@ -16963,9 +16846,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18932
-                  ],
+                  "assignments": [18932],
                   "declarations": [
                     {
                       "constant": false,
@@ -17274,9 +17155,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18956
-                  ],
+                  "assignments": [18956],
                   "declarations": [
                     {
                       "constant": false,
@@ -17585,9 +17464,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    18980
-                  ],
+                  "assignments": [18980],
                   "declarations": [
                     {
                       "constant": false,
@@ -17896,9 +17773,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19004
-                  ],
+                  "assignments": [19004],
                   "declarations": [
                     {
                       "constant": false,
@@ -18207,9 +18082,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19028
-                  ],
+                  "assignments": [19028],
                   "declarations": [
                     {
                       "constant": false,
@@ -18518,9 +18391,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19052
-                  ],
+                  "assignments": [19052],
                   "declarations": [
                     {
                       "constant": false,
@@ -18829,9 +18700,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19076
-                  ],
+                  "assignments": [19076],
                   "declarations": [
                     {
                       "constant": false,
@@ -19140,9 +19009,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19100
-                  ],
+                  "assignments": [19100],
                   "declarations": [
                     {
                       "constant": false,
@@ -19451,9 +19318,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19124
-                  ],
+                  "assignments": [19124],
                   "declarations": [
                     {
                       "constant": false,
@@ -19762,9 +19627,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19148
-                  ],
+                  "assignments": [19148],
                   "declarations": [
                     {
                       "constant": false,
@@ -20073,9 +19936,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19172
-                  ],
+                  "assignments": [19172],
                   "declarations": [
                     {
                       "constant": false,
@@ -20384,9 +20245,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19196
-                  ],
+                  "assignments": [19196],
                   "declarations": [
                     {
                       "constant": false,
@@ -20695,9 +20554,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19220
-                  ],
+                  "assignments": [19220],
                   "declarations": [
                     {
                       "constant": false,
@@ -21006,9 +20863,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19244
-                  ],
+                  "assignments": [19244],
                   "declarations": [
                     {
                       "constant": false,
@@ -21317,9 +21172,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19268
-                  ],
+                  "assignments": [19268],
                   "declarations": [
                     {
                       "constant": false,
@@ -21628,9 +21481,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19292
-                  ],
+                  "assignments": [19292],
                   "declarations": [
                     {
                       "constant": false,
@@ -21939,9 +21790,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19316
-                  ],
+                  "assignments": [19316],
                   "declarations": [
                     {
                       "constant": false,
@@ -22250,9 +22099,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19340
-                  ],
+                  "assignments": [19340],
                   "declarations": [
                     {
                       "constant": false,
@@ -22561,9 +22408,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19364
-                  ],
+                  "assignments": [19364],
                   "declarations": [
                     {
                       "constant": false,
@@ -22872,9 +22717,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19388
-                  ],
+                  "assignments": [19388],
                   "declarations": [
                     {
                       "constant": false,
@@ -23183,9 +23026,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19412
-                  ],
+                  "assignments": [19412],
                   "declarations": [
                     {
                       "constant": false,
@@ -23494,9 +23335,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19436
-                  ],
+                  "assignments": [19436],
                   "declarations": [
                     {
                       "constant": false,
@@ -23805,9 +23644,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19460
-                  ],
+                  "assignments": [19460],
                   "declarations": [
                     {
                       "constant": false,
@@ -24116,9 +23953,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19484
-                  ],
+                  "assignments": [19484],
                   "declarations": [
                     {
                       "constant": false,
@@ -24427,9 +24262,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19508
-                  ],
+                  "assignments": [19508],
                   "declarations": [
                     {
                       "constant": false,
@@ -24738,9 +24571,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19532
-                  ],
+                  "assignments": [19532],
                   "declarations": [
                     {
                       "constant": false,
@@ -25049,9 +24880,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19556
-                  ],
+                  "assignments": [19556],
                   "declarations": [
                     {
                       "constant": false,
@@ -25360,9 +25189,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19580
-                  ],
+                  "assignments": [19580],
                   "declarations": [
                     {
                       "constant": false,
@@ -25671,9 +25498,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19604
-                  ],
+                  "assignments": [19604],
                   "declarations": [
                     {
                       "constant": false,
@@ -25982,9 +25807,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19628
-                  ],
+                  "assignments": [19628],
                   "declarations": [
                     {
                       "constant": false,
@@ -26293,9 +26116,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19652
-                  ],
+                  "assignments": [19652],
                   "declarations": [
                     {
                       "constant": false,
@@ -26604,9 +26425,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19676
-                  ],
+                  "assignments": [19676],
                   "declarations": [
                     {
                       "constant": false,
@@ -26915,9 +26734,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19700
-                  ],
+                  "assignments": [19700],
                   "declarations": [
                     {
                       "constant": false,
@@ -27226,9 +27043,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19724
-                  ],
+                  "assignments": [19724],
                   "declarations": [
                     {
                       "constant": false,
@@ -27537,9 +27352,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19748
-                  ],
+                  "assignments": [19748],
                   "declarations": [
                     {
                       "constant": false,
@@ -27848,9 +27661,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19772
-                  ],
+                  "assignments": [19772],
                   "declarations": [
                     {
                       "constant": false,
@@ -28159,9 +27970,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19796
-                  ],
+                  "assignments": [19796],
                   "declarations": [
                     {
                       "constant": false,
@@ -28470,9 +28279,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19820
-                  ],
+                  "assignments": [19820],
                   "declarations": [
                     {
                       "constant": false,
@@ -28781,9 +28588,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19844
-                  ],
+                  "assignments": [19844],
                   "declarations": [
                     {
                       "constant": false,
@@ -29092,9 +28897,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19868
-                  ],
+                  "assignments": [19868],
                   "declarations": [
                     {
                       "constant": false,
@@ -29403,9 +29206,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19892
-                  ],
+                  "assignments": [19892],
                   "declarations": [
                     {
                       "constant": false,
@@ -29714,9 +29515,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19916
-                  ],
+                  "assignments": [19916],
                   "declarations": [
                     {
                       "constant": false,
@@ -30025,9 +29824,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19940
-                  ],
+                  "assignments": [19940],
                   "declarations": [
                     {
                       "constant": false,
@@ -30336,9 +30133,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    19964
-                  ],
+                  "assignments": [19964],
                   "declarations": [
                     {
                       "constant": false,
@@ -30649,9 +30444,7 @@
           "text": " @title EncodeArray\n @dev This library provides utilities for encoding arrays into tightly packed bytes representations."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          19976
-        ],
+        "linearizedBaseContracts": [19976],
         "name": "EncodeArray",
         "nameLocation": "296:11:30",
         "scope": 19977,

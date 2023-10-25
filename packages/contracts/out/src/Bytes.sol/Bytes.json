@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"title\":\"Bytes\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"notice\":\"Utility functions for bytes.\",\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol\":\"Bytes\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol\":{\"keccak256\":\"0xab31edce915377852bb5f29f7f2ccfc50cac087d64d2a8aae669715ad862d558\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3187e86e43be1fbdd59df45c695294f1114aa1ac48e6445c0cb26089434be5c4\",\"dweb:/ipfs/Qmck7shMVrcKMVkgN2pC1byPY7hb3V9fTxnUcGgxAUeXYk\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"title\":\"Bytes\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"notice\":\"Utility functions for bytes.\",\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol\":\"Bytes\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol\":{\"keccak256\":\"0xab31edce915377852bb5f29f7f2ccfc50cac087d64d2a8aae669715ad862d558\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3187e86e43be1fbdd59df45c695294f1114aa1ac48e6445c0cb26089434be5c4\",\"dweb:/ipfs/Qmck7shMVrcKMVkgN2pC1byPY7hb3V9fTxnUcGgxAUeXYk\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol": "Bytes"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol": "Bytes"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol": {
         "keccak256": "0xab31edce915377852bb5f29f7f2ccfc50cac087d64d2a8aae669715ad862d558",
         "urls": [
           "bzz-raw://3187e86e43be1fbdd59df45c695294f1114aa1ac48e6445c0cb26089434be5c4",
@@ -61,12 +61,10 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Bytes.sol",
     "id": 804,
     "exportedSymbols": {
-      "Bytes": [
-        803
-      ]
+      "Bytes": [803]
     },
     "nodeType": "SourceUnit",
     "src": "32:27323:0",
@@ -76,12 +74,7 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:0",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 803,
@@ -885,9 +878,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    69
-                  ],
+                  "assignments": [69],
                   "declarations": [
                     {
                       "constant": false,
@@ -1380,9 +1371,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    89
-                  ],
+                  "assignments": [89],
                   "declarations": [
                     {
                       "constant": false,
@@ -1875,9 +1864,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    109
-                  ],
+                  "assignments": [109],
                   "declarations": [
                     {
                       "constant": false,
@@ -2370,9 +2357,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    129
-                  ],
+                  "assignments": [129],
                   "declarations": [
                     {
                       "constant": false,
@@ -2881,9 +2866,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    149
-                  ],
+                  "assignments": [149],
                   "declarations": [
                     {
                       "constant": false,
@@ -3477,9 +3460,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    176
-                  ],
+                  "assignments": [176],
                   "declarations": [
                     {
                       "constant": false,
@@ -4073,9 +4054,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    201
-                  ],
+                  "assignments": [201],
                   "declarations": [
                     {
                       "constant": false,
@@ -4360,9 +4339,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    218
-                  ],
+                  "assignments": [218],
                   "declarations": [
                     {
                       "constant": false,
@@ -4634,9 +4611,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    235
-                  ],
+                  "assignments": [235],
                   "declarations": [
                     {
                       "constant": false,
@@ -4921,9 +4896,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    252
-                  ],
+                  "assignments": [252],
                   "declarations": [
                     {
                       "constant": false,
@@ -5195,9 +5168,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    269
-                  ],
+                  "assignments": [269],
                   "declarations": [
                     {
                       "constant": false,
@@ -5482,9 +5453,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    286
-                  ],
+                  "assignments": [286],
                   "declarations": [
                     {
                       "constant": false,
@@ -5769,9 +5738,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    303
-                  ],
+                  "assignments": [303],
                   "declarations": [
                     {
                       "constant": false,
@@ -6043,9 +6010,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    320
-                  ],
+                  "assignments": [320],
                   "declarations": [
                     {
                       "constant": false,
@@ -6330,9 +6295,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    337
-                  ],
+                  "assignments": [337],
                   "declarations": [
                     {
                       "constant": false,
@@ -6604,9 +6567,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    354
-                  ],
+                  "assignments": [354],
                   "declarations": [
                     {
                       "constant": false,
@@ -6891,9 +6852,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    371
-                  ],
+                  "assignments": [371],
                   "declarations": [
                     {
                       "constant": false,
@@ -7178,9 +7137,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    388
-                  ],
+                  "assignments": [388],
                   "declarations": [
                     {
                       "constant": false,
@@ -7465,9 +7422,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    405
-                  ],
+                  "assignments": [405],
                   "declarations": [
                     {
                       "constant": false,
@@ -7752,9 +7707,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    422
-                  ],
+                  "assignments": [422],
                   "declarations": [
                     {
                       "constant": false,
@@ -8039,9 +7992,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    439
-                  ],
+                  "assignments": [439],
                   "declarations": [
                     {
                       "constant": false,
@@ -8326,9 +8277,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    456
-                  ],
+                  "assignments": [456],
                   "declarations": [
                     {
                       "constant": false,
@@ -8613,9 +8562,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    473
-                  ],
+                  "assignments": [473],
                   "declarations": [
                     {
                       "constant": false,
@@ -8900,9 +8847,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    490
-                  ],
+                  "assignments": [490],
                   "declarations": [
                     {
                       "constant": false,
@@ -9187,9 +9132,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    507
-                  ],
+                  "assignments": [507],
                   "declarations": [
                     {
                       "constant": false,
@@ -9474,9 +9417,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    524
-                  ],
+                  "assignments": [524],
                   "declarations": [
                     {
                       "constant": false,
@@ -9761,9 +9702,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    541
-                  ],
+                  "assignments": [541],
                   "declarations": [
                     {
                       "constant": false,
@@ -10048,9 +9987,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    558
-                  ],
+                  "assignments": [558],
                   "declarations": [
                     {
                       "constant": false,
@@ -10335,9 +10272,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    575
-                  ],
+                  "assignments": [575],
                   "declarations": [
                     {
                       "constant": false,
@@ -10622,9 +10557,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    592
-                  ],
+                  "assignments": [592],
                   "declarations": [
                     {
                       "constant": false,
@@ -10909,9 +10842,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    609
-                  ],
+                  "assignments": [609],
                   "declarations": [
                     {
                       "constant": false,
@@ -11196,9 +11127,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    626
-                  ],
+                  "assignments": [626],
                   "declarations": [
                     {
                       "constant": false,
@@ -11483,9 +11412,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    643
-                  ],
+                  "assignments": [643],
                   "declarations": [
                     {
                       "constant": false,
@@ -11770,9 +11697,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    660
-                  ],
+                  "assignments": [660],
                   "declarations": [
                     {
                       "constant": false,
@@ -12057,9 +11982,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    677
-                  ],
+                  "assignments": [677],
                   "declarations": [
                     {
                       "constant": false,
@@ -12344,9 +12267,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    694
-                  ],
+                  "assignments": [694],
                   "declarations": [
                     {
                       "constant": false,
@@ -12631,9 +12552,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    711
-                  ],
+                  "assignments": [711],
                   "declarations": [
                     {
                       "constant": false,
@@ -12918,9 +12837,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    728
-                  ],
+                  "assignments": [728],
                   "declarations": [
                     {
                       "constant": false,
@@ -13205,9 +13122,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    745
-                  ],
+                  "assignments": [745],
                   "declarations": [
                     {
                       "constant": false,
@@ -13492,9 +13407,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    762
-                  ],
+                  "assignments": [762],
                   "declarations": [
                     {
                       "constant": false,
@@ -13779,9 +13692,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    779
-                  ],
+                  "assignments": [779],
                   "declarations": [
                     {
                       "constant": false,
@@ -14066,9 +13977,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    796
-                  ],
+                  "assignments": [796],
                   "declarations": [
                     {
                       "constant": false,
@@ -14354,9 +14263,7 @@
           "text": " @title Bytes\n @notice Utility functions for bytes."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          803
-        ],
+        "linearizedBaseContracts": [803],
         "name": "Bytes",
         "nameLocation": "131:5:0",
         "scope": 804,

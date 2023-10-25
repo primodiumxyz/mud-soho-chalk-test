@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides functions for low-level storage manipulation, including storing and retrieving bytes.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"Storage Library\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol\":\"Storage\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol\":{\"keccak256\":\"0x0893905ebe431a414226b479a84a54804091001a406222c748adbd4b651853a5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://bcfcd3848127884041f0bcd727a0e7acbddec283aa6c16ba47abc6a3be720648\",\"dweb:/ipfs/QmY5fBd53e4Ro6vzTZYsteSibSTXVA3GHTeCAiUZTa5DPZ\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides functions for low-level storage manipulation, including storing and retrieving bytes.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"Storage Library\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol\":\"Storage\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol\":{\"keccak256\":\"0x0893905ebe431a414226b479a84a54804091001a406222c748adbd4b651853a5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://bcfcd3848127884041f0bcd727a0e7acbddec283aa6c16ba47abc6a3be720648\",\"dweb:/ipfs/QmY5fBd53e4Ro6vzTZYsteSibSTXVA3GHTeCAiUZTa5DPZ\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol": "Storage"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol": "Storage"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
         "keccak256": "0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7",
         "urls": [
           "bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5",
@@ -57,7 +57,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol": {
         "keccak256": "0x0893905ebe431a414226b479a84a54804091001a406222c748adbd4b651853a5",
         "urls": [
           "bzz-raw://bcfcd3848127884041f0bcd727a0e7acbddec283aa6c16ba47abc6a3be720648",
@@ -65,7 +65,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
         "keccak256": "0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f",
         "urls": [
           "bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401",
@@ -77,18 +77,12 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Storage.sol",
     "id": 4055,
     "exportedSymbols": {
-      "Memory": [
-        2264
-      ],
-      "Storage": [
-        4054
-      ],
-      "leftMask": [
-        15160
-      ]
+      "Memory": [2264],
+      "Storage": [4054],
+      "leftMask": [15160]
     },
     "nodeType": "SourceUnit",
     "src": "32:9441:17",
@@ -98,19 +92,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:17",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 3700,
         "nodeType": "ImportDirective",
         "src": "59:42:17",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol",
         "file": "./leftMask.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 4055,
@@ -136,7 +125,7 @@
         "nodeType": "ImportDirective",
         "src": "102:38:17",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol",
         "file": "./Memory.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 4055,
@@ -470,11 +459,7 @@
                       "id": 3723,
                       "name": "store",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        3713,
-                        3735,
-                        3840
-                      ],
+                      "overloadedDeclarations": [3713, 3735, 3840],
                       "referencedDeclaration": 3840,
                       "src": "939:5:17",
                       "typeDescriptions": {
@@ -925,9 +910,7 @@
                           "src": "1849:1118:17",
                           "statements": [
                             {
-                              "assignments": [
-                                3770
-                              ],
+                              "assignments": [3770],
                               "declarations": [
                                 {
                                   "constant": false,
@@ -1046,9 +1029,7 @@
                               ]
                             },
                             {
-                              "assignments": [
-                                3780
-                              ],
+                              "assignments": [3780],
                               "declarations": [
                                 {
                                   "constant": false,
@@ -1981,9 +1962,7 @@
                     "src": "3336:359:17",
                     "statements": [
                       {
-                        "assignments": [
-                          3831
-                        ],
+                        "assignments": [3831],
                         "declarations": [
                           {
                             "constant": false,
@@ -2397,9 +2376,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    3849
-                  ],
+                  "assignments": [3849],
                   "declarations": [
                     {
                       "constant": false,
@@ -2977,9 +2954,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    3889
-                  ],
+                  "assignments": [3889],
                   "declarations": [
                     {
                       "constant": false,
@@ -3425,11 +3400,7 @@
                       "id": 3892,
                       "name": "load",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        3876,
-                        3902,
-                        4007
-                      ],
+                      "overloadedDeclarations": [3876, 3902, 4007],
                       "referencedDeclaration": 4007,
                       "src": "5493:4:17",
                       "typeDescriptions": {
@@ -3926,9 +3897,7 @@
                           "src": "6413:1048:17",
                           "statements": [
                             {
-                              "assignments": [
-                                3937
-                              ],
+                              "assignments": [3937],
                               "declarations": [
                                 {
                                   "constant": false,
@@ -4047,9 +4016,7 @@
                               ]
                             },
                             {
-                              "assignments": [
-                                3947
-                              ],
+                              "assignments": [3947],
                               "declarations": [
                                 {
                                   "constant": false,
@@ -4910,9 +4877,7 @@
                     "src": "7829:358:17",
                     "statements": [
                       {
-                        "assignments": [
-                          3998
-                        ],
+                        "assignments": [3998],
                         "declarations": [
                           {
                             "constant": false,
@@ -5623,9 +5588,7 @@
                   "src": "9045:75:17"
                 },
                 {
-                  "assignments": [
-                    4037
-                  ],
+                  "assignments": [4037],
                   "declarations": [
                     {
                       "constant": false,
@@ -6105,9 +6068,7 @@
           "text": " @title Storage Library\n @dev Provides functions for low-level storage manipulation, including storing and retrieving bytes."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          4054
-        ],
+        "linearizedBaseContracts": [4054],
         "name": "Storage",
         "nameLocation": "287:7:17",
         "scope": 4055,

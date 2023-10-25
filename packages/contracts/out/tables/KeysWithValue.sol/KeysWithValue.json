@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol\":\"KeysWithValue\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol\":{\"keccak256\":\"0x27118a0cd6ac72257ba04ff98c7a62edd891305127f25bfe9586c134cc4a410b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e838102eadc3956612b8c32e8542d463eeb16dcc234cfde4922c1d3ab01ad5c2\",\"dweb:/ipfs/QmbWQRrvLPBQ36yHAkKYXcJUNR7zYoJdFZDJ6jQQPxUD79\"]},\"node_modules/@latticexyz/schema-type/src/solidity/SchemaType.sol\":{\"keccak256\":\"0x770eff7a38b9b7b1613dc11ca09db4f28b42a117c9b39b2a06a650a58a250bdb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://39f544110658a53def52c2a4e33b8b158b95a4f14fccea58d5268b6e728d86d4\",\"dweb:/ipfs/QmTesj6tjSFbfAiKUitXapdNYWPStS8bLkB3r22qfyHwUC\"]},\"node_modules/@latticexyz/store/src/Bytes.sol\":{\"keccak256\":\"0xab31edce915377852bb5f29f7f2ccfc50cac087d64d2a8aae669715ad862d558\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3187e86e43be1fbdd59df45c695294f1114aa1ac48e6445c0cb26089434be5c4\",\"dweb:/ipfs/Qmck7shMVrcKMVkgN2pC1byPY7hb3V9fTxnUcGgxAUeXYk\"]},\"node_modules/@latticexyz/store/src/FieldLayout.sol\":{\"keccak256\":\"0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba\",\"dweb:/ipfs/QmXoqrCGDSkuFgNSMURRFdjokjREL78nLDzNaUi6rjefy9\"]},\"node_modules/@latticexyz/store/src/Hook.sol\":{\"keccak256\":\"0x045024523eb55d08ad8d13eca6185bff2988865f4aa12e3f9372029c2ecb8ddd\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6621c53b49f8fe0557d1a1db47bfe1561801c09256948dd0652fb41541891a18\",\"dweb:/ipfs/QmZgFVCUH1pKcc9MeFyzMe1VW87SLz6c9szGwrDRUp6BZe\"]},\"node_modules/@latticexyz/store/src/IERC165.sol\":{\"keccak256\":\"0x2bbc3c43400c15a91a5cb35430a91309cb64a4d13a0a170eacec71dcf334feaf\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://f44dfc9605067de539de07a76a34bf469faa9e6dad8c192abafc2e05860c7dd2\",\"dweb:/ipfs/QmX8xgG6XWokM7YFwFZvmMhuh1uhkSjxCMD2oTHjUVdapb\"]},\"node_modules/@latticexyz/store/src/IStore.sol\":{\"keccak256\":\"0x9092b65551d0f910e5645cebb5acadb387cdd192d75fa89cd6b293bd65b28827\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://478825a6f7eff9ddab968e71e1d55ebee279d3b318f10976d9334384000059c0\",\"dweb:/ipfs/Qme7NY976woRy3RQjE4tkkiwoXnoVtTmER3PbWCSbjZ2kb\"]},\"node_modules/@latticexyz/store/src/IStoreData.sol\":{\"keccak256\":\"0xa8eade05c551aeef35c84727d7a44af239516deb2d8a0cfb7ebeb5d88c6995e5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://5335910bd8a204abb5f4396fb911a5ee5c221bd7fa63b1cc8ae5e737c6458c6a\",\"dweb:/ipfs/QmckkCAfrNcWo3yDxoD1jCe1k4iDA2GzVDpFjJZs7W79vx\"]},\"node_modules/@latticexyz/store/src/IStoreErrors.sol\":{\"keccak256\":\"0xb9070663ded3cad82285bb7610949e422f88abb48c2ddbd792af83d127d64212\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://830490f1c888bec86df1e7ef43773d60ebdbdfdb2b91ab7fe074e2f38d7439dc\",\"dweb:/ipfs/QmS26fpXdZuGgMmjcdQDf9k1Bedn2dhjk9byFZJoNkctPZ\"]},\"node_modules/@latticexyz/store/src/IStoreEvents.sol\":{\"keccak256\":\"0xdd3104680808f975462a85cbd4fa87783ba5395797419caeeca37e8f8627a16f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://943864b7eb16ad2047ade5a8598e85c8a4b46d1aed6aef02bfb7cee8de732b4d\",\"dweb:/ipfs/QmTEij4caToSNk15PFpubXYDy9QhwmPyP9tMXjUse2cTdv\"]},\"node_modules/@latticexyz/store/src/IStoreHook.sol\":{\"keccak256\":\"0xa6777c7868333996ad9c61a94457dcac702d8d7445a104dfdc86543d25e7470e\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6268a16449d7529a94746d0103670dd0e38faf5117bf914fb01da9947ab44c2e\",\"dweb:/ipfs/QmaSfbx1QRA3jw2K8bGkQTw4CTGPUzNqnCJW7LwaFUJCXy\"]},\"node_modules/@latticexyz/store/src/IStoreRead.sol\":{\"keccak256\":\"0xd2180d53ecd31069b1166f170ecdcd85917ac50f45fc26fb39b49cee7ba00e37\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://1494bb0a3228e2d194bddaed4761fd3ca865979f0e3f3a53acd271143a4aa0ac\",\"dweb:/ipfs/Qmaddnzzmu99iP9dTWK9ZeByh5dZyjY9SpVnRdvyr2fBAo\"]},\"node_modules/@latticexyz/store/src/IStoreRegistration.sol\":{\"keccak256\":\"0xf448fbb2bc9c982721a43234463656da5a49cea08543e62148d54f11e1ac3e2f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://64b3579d9b9dcd73dca2beab3d4fcf60237420945ebbb2e9f4ffcc88f4110115\",\"dweb:/ipfs/QmaW5nN3zGEriSYHncye6Nz2TkAw1oo1CyG2JuJTJrJoXg\"]},\"node_modules/@latticexyz/store/src/IStoreWrite.sol\":{\"keccak256\":\"0x8b6c7af5ee330928aebb58c8872d3944304ee10ed11f8a325b6accc4ec5df81b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://b866d158701c7a40834bed735194b804ef219f2bbe574e2307785fff7bcf9da1\",\"dweb:/ipfs/QmXzJfZkXVfyr2RFGwDuazeVnV3UWYmQxjKZ3KzFbbe75U\"]},\"node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"node_modules/@latticexyz/store/src/PackedCounter.sol\":{\"keccak256\":\"0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0\",\"dweb:/ipfs/QmNkyzDobVQLoq9BtQ8HtgsPLiqnmi97EZx1wsu6wp8nKH\"]},\"node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]},\"node_modules/@latticexyz/store/src/Schema.sol\":{\"keccak256\":\"0x58aef318ba03f8ff8866ef70f8a30f549b150657ea699734aefe16c298956401\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7dc104690a7e2bcf5ce1afadcd58f8ef4d639b4b92b9ad9293656235d54395f3\",\"dweb:/ipfs/QmYJJvEv5KBJ3kzf9AkgRn7Uu5dp4exGTRddf4cae1btgE\"]},\"node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"node_modules/@latticexyz/store/src/Storage.sol\":{\"keccak256\":\"0x0893905ebe431a414226b479a84a54804091001a406222c748adbd4b651853a5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://bcfcd3848127884041f0bcd727a0e7acbddec283aa6c16ba47abc6a3be720648\",\"dweb:/ipfs/QmY5fBd53e4Ro6vzTZYsteSibSTXVA3GHTeCAiUZTa5DPZ\"]},\"node_modules/@latticexyz/store/src/StoreCore.sol\":{\"keccak256\":\"0x95b7d62d84b43777c54dd1c7d941dbb5ba0afc02c444c30cfdb1de671bbbf180\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://fe62a2fdb2a73610c3072f31b7f88ed3f9d03c1009fe0f0ef37a7eb814b23534\",\"dweb:/ipfs/QmV85zaV5HAD6eGc5N4RmdtmpR6EwkswVLQTaR2aJqsXrj\"]},\"node_modules/@latticexyz/store/src/StoreSwitch.sol\":{\"keccak256\":\"0xf132af10f960a498f49c0534027056e715f4bdcb8fbdb53ac6879c92309ab416\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e85a09aeb7543bcd9d74b7ad319ae61e1f7f15a6a0ad9e79aff750fbd18111c7\",\"dweb:/ipfs/QmY6xgqeeaR1FsCPLmFbVgjm1D2UyrXNABKXWLfFaSmBhR\"]},\"node_modules/@latticexyz/store/src/codegen/index.sol\":{\"keccak256\":\"0xf337a5abb2d43ef00c1c200e7fbec30fc89c7c701e457ab4277194b700d2aea3\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://eccdf6158076b4e8f1b587a0310228f53323705e054a44eaa7733f38805c3ee6\",\"dweb:/ipfs/QmbXEVNTctg54dK9awdCVyAjeuUjR6ckfmmXBP8DrFmjyq\"]},\"node_modules/@latticexyz/store/src/codegen/tables/Hooks.sol\":{\"keccak256\":\"0xc5c6f807cff6b4dc486525c559ba3f7cbb034ac5895636ee64c9d01defa6a38e\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://84d3a3b3fd3afa2ab3231fd7fe981889dfb0600deec34c5d4e9c07d3187af8a5\",\"dweb:/ipfs/Qmanj7WjETqBYQXkxKLjqWs4vMp3en3N69B5MacKme5fpD\"]},\"node_modules/@latticexyz/store/src/codegen/tables/ResourceIds.sol\":{\"keccak256\":\"0xf7a9bf3e37b486377005c556cdf5b813ea1a41278b3a0349f81e3c82a2f1c789\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://92cc87add89abcb126bf3cd0b284f25065c2b9c90a49f8dba4629b28a5b87751\",\"dweb:/ipfs/QmNNBDSK5GNujERGiSUhorbmtpdD2UnGz7MqSSDasEGdub\"]},\"node_modules/@latticexyz/store/src/codegen/tables/StoreHooks.sol\":{\"keccak256\":\"0xa1186b8b6143b4a87cea1624785494398be1613cb7c6f9e57734e1cca1d5dd14\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://488c158082622689d035d7964c6ca063295e53078291c340eb6a23db08e8ff95\",\"dweb:/ipfs/QmWcjo3B5SH7jStXKAuf7qvF2ouz6syw9c7aT86PnTgRqW\"]},\"node_modules/@latticexyz/store/src/codegen/tables/Tables.sol\":{\"keccak256\":\"0xd47e1921c07fc8608157b5dc343fcef7235e891ea6a21dec1fb118a0bd797fcb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://01a6ad068e6991994a0939f22a55245e0c7c82fc5e274da0af616286a8acfc7a\",\"dweb:/ipfs/QmPokA3pSexzZY33MMV6BGx48ZwQegdUN5AijiAfycSDxy\"]},\"node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]},\"node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"node_modules/@latticexyz/store/src/storeHookTypes.sol\":{\"keccak256\":\"0x60880298016fa117ed9a43ddfd020f11d98a2d345bdcb08e5884e40df98eddd5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3619dfda1fd514c0fc5fb34c14d5b5aa41dd6ba6045d37d5f4c8199f3a826f81\",\"dweb:/ipfs/QmbzRBYfVa423gNzCitpGN3i2N9oeGYfinVE1jgtqxnNZX\"]},\"node_modules/@latticexyz/store/src/storeResourceTypes.sol\":{\"keccak256\":\"0xada1867ba72930fc5cf5562dd4e36de849dbac9c833b7969cb1b046a808fabf2\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6e4b5fdcaa54f567a3f8561c2c3fbc0d68c8dad892a4a8e5418bbce8efc53d84\",\"dweb:/ipfs/QmTWbYJX1yrCqrEwUKB9rGpHdRvLNU8GCkBbxnLjGD4d2t\"]},\"node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol\":{\"keccak256\":\"0x1c280d24360282e196d9c4833c58c2437108cea2af0ac7596f95be81389e306d\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6b4556b6eeae9328fbd9adcce346547e823c397503276a4d63effb67e00b5b49\",\"dweb:/ipfs/QmUsynVsMYzjh8oJR8YB7SRrwFMdXcsQsHBrXxLEEFxsiB\"]},\"node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]},\"node_modules/@latticexyz/store/src/version.sol\":{\"keccak256\":\"0x01029999a48b7c1d85de84cae465dd24ec126c95b8a865cd20c7ed5dfcc0f02c\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://9750164ce996badb0fd7df2f526780b9cb9558912405fe46f31064bd7c522491\",\"dweb:/ipfs/QmYf8m2ZXFANRc9ysHgNkNtSF327ccxKYjCUJ49UXBKADk\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol\":\"KeysWithValue\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol\":{\"keccak256\":\"0x27118a0cd6ac72257ba04ff98c7a62edd891305127f25bfe9586c134cc4a410b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e838102eadc3956612b8c32e8542d463eeb16dcc234cfde4922c1d3ab01ad5c2\",\"dweb:/ipfs/QmbWQRrvLPBQ36yHAkKYXcJUNR7zYoJdFZDJ6jQQPxUD79\"]},\"node_modules/@latticexyz/schema-type/src/solidity/SchemaType.sol\":{\"keccak256\":\"0x770eff7a38b9b7b1613dc11ca09db4f28b42a117c9b39b2a06a650a58a250bdb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://39f544110658a53def52c2a4e33b8b158b95a4f14fccea58d5268b6e728d86d4\",\"dweb:/ipfs/QmTesj6tjSFbfAiKUitXapdNYWPStS8bLkB3r22qfyHwUC\"]},\"node_modules/@latticexyz/store/src/Bytes.sol\":{\"keccak256\":\"0xab31edce915377852bb5f29f7f2ccfc50cac087d64d2a8aae669715ad862d558\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3187e86e43be1fbdd59df45c695294f1114aa1ac48e6445c0cb26089434be5c4\",\"dweb:/ipfs/Qmck7shMVrcKMVkgN2pC1byPY7hb3V9fTxnUcGgxAUeXYk\"]},\"node_modules/@latticexyz/store/src/FieldLayout.sol\":{\"keccak256\":\"0x2a0536cd6cecc479d0b81d5aad6380231f4d6873beadc54814d801c2036b02c0\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e07c041e19146a9ec258cc700a450b4d49440202895eb12f3bb17508427c23ba\",\"dweb:/ipfs/QmXoqrCGDSkuFgNSMURRFdjokjREL78nLDzNaUi6rjefy9\"]},\"node_modules/@latticexyz/store/src/Hook.sol\":{\"keccak256\":\"0x045024523eb55d08ad8d13eca6185bff2988865f4aa12e3f9372029c2ecb8ddd\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6621c53b49f8fe0557d1a1db47bfe1561801c09256948dd0652fb41541891a18\",\"dweb:/ipfs/QmZgFVCUH1pKcc9MeFyzMe1VW87SLz6c9szGwrDRUp6BZe\"]},\"node_modules/@latticexyz/store/src/IERC165.sol\":{\"keccak256\":\"0x2bbc3c43400c15a91a5cb35430a91309cb64a4d13a0a170eacec71dcf334feaf\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://f44dfc9605067de539de07a76a34bf469faa9e6dad8c192abafc2e05860c7dd2\",\"dweb:/ipfs/QmX8xgG6XWokM7YFwFZvmMhuh1uhkSjxCMD2oTHjUVdapb\"]},\"node_modules/@latticexyz/store/src/IStore.sol\":{\"keccak256\":\"0x9092b65551d0f910e5645cebb5acadb387cdd192d75fa89cd6b293bd65b28827\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://478825a6f7eff9ddab968e71e1d55ebee279d3b318f10976d9334384000059c0\",\"dweb:/ipfs/Qme7NY976woRy3RQjE4tkkiwoXnoVtTmER3PbWCSbjZ2kb\"]},\"node_modules/@latticexyz/store/src/IStoreData.sol\":{\"keccak256\":\"0xa8eade05c551aeef35c84727d7a44af239516deb2d8a0cfb7ebeb5d88c6995e5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://5335910bd8a204abb5f4396fb911a5ee5c221bd7fa63b1cc8ae5e737c6458c6a\",\"dweb:/ipfs/QmckkCAfrNcWo3yDxoD1jCe1k4iDA2GzVDpFjJZs7W79vx\"]},\"node_modules/@latticexyz/store/src/IStoreErrors.sol\":{\"keccak256\":\"0xb9070663ded3cad82285bb7610949e422f88abb48c2ddbd792af83d127d64212\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://830490f1c888bec86df1e7ef43773d60ebdbdfdb2b91ab7fe074e2f38d7439dc\",\"dweb:/ipfs/QmS26fpXdZuGgMmjcdQDf9k1Bedn2dhjk9byFZJoNkctPZ\"]},\"node_modules/@latticexyz/store/src/IStoreEvents.sol\":{\"keccak256\":\"0xdd3104680808f975462a85cbd4fa87783ba5395797419caeeca37e8f8627a16f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://943864b7eb16ad2047ade5a8598e85c8a4b46d1aed6aef02bfb7cee8de732b4d\",\"dweb:/ipfs/QmTEij4caToSNk15PFpubXYDy9QhwmPyP9tMXjUse2cTdv\"]},\"node_modules/@latticexyz/store/src/IStoreHook.sol\":{\"keccak256\":\"0xa6777c7868333996ad9c61a94457dcac702d8d7445a104dfdc86543d25e7470e\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6268a16449d7529a94746d0103670dd0e38faf5117bf914fb01da9947ab44c2e\",\"dweb:/ipfs/QmaSfbx1QRA3jw2K8bGkQTw4CTGPUzNqnCJW7LwaFUJCXy\"]},\"node_modules/@latticexyz/store/src/IStoreRead.sol\":{\"keccak256\":\"0xd2180d53ecd31069b1166f170ecdcd85917ac50f45fc26fb39b49cee7ba00e37\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://1494bb0a3228e2d194bddaed4761fd3ca865979f0e3f3a53acd271143a4aa0ac\",\"dweb:/ipfs/Qmaddnzzmu99iP9dTWK9ZeByh5dZyjY9SpVnRdvyr2fBAo\"]},\"node_modules/@latticexyz/store/src/IStoreRegistration.sol\":{\"keccak256\":\"0xf448fbb2bc9c982721a43234463656da5a49cea08543e62148d54f11e1ac3e2f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://64b3579d9b9dcd73dca2beab3d4fcf60237420945ebbb2e9f4ffcc88f4110115\",\"dweb:/ipfs/QmaW5nN3zGEriSYHncye6Nz2TkAw1oo1CyG2JuJTJrJoXg\"]},\"node_modules/@latticexyz/store/src/IStoreWrite.sol\":{\"keccak256\":\"0x8b6c7af5ee330928aebb58c8872d3944304ee10ed11f8a325b6accc4ec5df81b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://b866d158701c7a40834bed735194b804ef219f2bbe574e2307785fff7bcf9da1\",\"dweb:/ipfs/QmXzJfZkXVfyr2RFGwDuazeVnV3UWYmQxjKZ3KzFbbe75U\"]},\"node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"node_modules/@latticexyz/store/src/PackedCounter.sol\":{\"keccak256\":\"0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0\",\"dweb:/ipfs/QmNkyzDobVQLoq9BtQ8HtgsPLiqnmi97EZx1wsu6wp8nKH\"]},\"node_modules/@latticexyz/store/src/ResourceId.sol\":{\"keccak256\":\"0x40983c580b8958e55db4520095934a535e98544ffe8228327e598973eb6647ed\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://839d658fa2bb2b1f09a08149d2bf0c26a26c301ad2dda8154fc99458085a695d\",\"dweb:/ipfs/Qmd5jHHYrgqraPqF8bjzT4xyjsoPk8K7pkxXLLfz6MRT6d\"]},\"node_modules/@latticexyz/store/src/Schema.sol\":{\"keccak256\":\"0x58aef318ba03f8ff8866ef70f8a30f549b150657ea699734aefe16c298956401\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7dc104690a7e2bcf5ce1afadcd58f8ef4d639b4b92b9ad9293656235d54395f3\",\"dweb:/ipfs/QmYJJvEv5KBJ3kzf9AkgRn7Uu5dp4exGTRddf4cae1btgE\"]},\"node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"node_modules/@latticexyz/store/src/Storage.sol\":{\"keccak256\":\"0x0893905ebe431a414226b479a84a54804091001a406222c748adbd4b651853a5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://bcfcd3848127884041f0bcd727a0e7acbddec283aa6c16ba47abc6a3be720648\",\"dweb:/ipfs/QmY5fBd53e4Ro6vzTZYsteSibSTXVA3GHTeCAiUZTa5DPZ\"]},\"node_modules/@latticexyz/store/src/StoreCore.sol\":{\"keccak256\":\"0x95b7d62d84b43777c54dd1c7d941dbb5ba0afc02c444c30cfdb1de671bbbf180\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://fe62a2fdb2a73610c3072f31b7f88ed3f9d03c1009fe0f0ef37a7eb814b23534\",\"dweb:/ipfs/QmV85zaV5HAD6eGc5N4RmdtmpR6EwkswVLQTaR2aJqsXrj\"]},\"node_modules/@latticexyz/store/src/StoreSwitch.sol\":{\"keccak256\":\"0xf132af10f960a498f49c0534027056e715f4bdcb8fbdb53ac6879c92309ab416\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://e85a09aeb7543bcd9d74b7ad319ae61e1f7f15a6a0ad9e79aff750fbd18111c7\",\"dweb:/ipfs/QmY6xgqeeaR1FsCPLmFbVgjm1D2UyrXNABKXWLfFaSmBhR\"]},\"node_modules/@latticexyz/store/src/codegen/index.sol\":{\"keccak256\":\"0xf337a5abb2d43ef00c1c200e7fbec30fc89c7c701e457ab4277194b700d2aea3\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://eccdf6158076b4e8f1b587a0310228f53323705e054a44eaa7733f38805c3ee6\",\"dweb:/ipfs/QmbXEVNTctg54dK9awdCVyAjeuUjR6ckfmmXBP8DrFmjyq\"]},\"node_modules/@latticexyz/store/src/codegen/tables/Hooks.sol\":{\"keccak256\":\"0xc5c6f807cff6b4dc486525c559ba3f7cbb034ac5895636ee64c9d01defa6a38e\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://84d3a3b3fd3afa2ab3231fd7fe981889dfb0600deec34c5d4e9c07d3187af8a5\",\"dweb:/ipfs/Qmanj7WjETqBYQXkxKLjqWs4vMp3en3N69B5MacKme5fpD\"]},\"node_modules/@latticexyz/store/src/codegen/tables/ResourceIds.sol\":{\"keccak256\":\"0xf7a9bf3e37b486377005c556cdf5b813ea1a41278b3a0349f81e3c82a2f1c789\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://92cc87add89abcb126bf3cd0b284f25065c2b9c90a49f8dba4629b28a5b87751\",\"dweb:/ipfs/QmNNBDSK5GNujERGiSUhorbmtpdD2UnGz7MqSSDasEGdub\"]},\"node_modules/@latticexyz/store/src/codegen/tables/StoreHooks.sol\":{\"keccak256\":\"0xa1186b8b6143b4a87cea1624785494398be1613cb7c6f9e57734e1cca1d5dd14\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://488c158082622689d035d7964c6ca063295e53078291c340eb6a23db08e8ff95\",\"dweb:/ipfs/QmWcjo3B5SH7jStXKAuf7qvF2ouz6syw9c7aT86PnTgRqW\"]},\"node_modules/@latticexyz/store/src/codegen/tables/Tables.sol\":{\"keccak256\":\"0xd47e1921c07fc8608157b5dc343fcef7235e891ea6a21dec1fb118a0bd797fcb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://01a6ad068e6991994a0939f22a55245e0c7c82fc5e274da0af616286a8acfc7a\",\"dweb:/ipfs/QmPokA3pSexzZY33MMV6BGx48ZwQegdUN5AijiAfycSDxy\"]},\"node_modules/@latticexyz/store/src/constants.sol\":{\"keccak256\":\"0x9e37c64c119ef07ad914bc589ee3f6d67946ab95877978c1ee3e2c1ffae07076\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3fad47e542025382aa28e8171253e34f93b2f149434b67a26989542d70218793\",\"dweb:/ipfs/QmW6JsKNwPc6oAMrgcikgR2EPwMUtQANiuZSQSGCd29HHC\"]},\"node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"node_modules/@latticexyz/store/src/storeHookTypes.sol\":{\"keccak256\":\"0x60880298016fa117ed9a43ddfd020f11d98a2d345bdcb08e5884e40df98eddd5\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://3619dfda1fd514c0fc5fb34c14d5b5aa41dd6ba6045d37d5f4c8199f3a826f81\",\"dweb:/ipfs/QmbzRBYfVa423gNzCitpGN3i2N9oeGYfinVE1jgtqxnNZX\"]},\"node_modules/@latticexyz/store/src/storeResourceTypes.sol\":{\"keccak256\":\"0xada1867ba72930fc5cf5562dd4e36de849dbac9c833b7969cb1b046a808fabf2\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6e4b5fdcaa54f567a3f8561c2c3fbc0d68c8dad892a4a8e5418bbce8efc53d84\",\"dweb:/ipfs/QmTWbYJX1yrCqrEwUKB9rGpHdRvLNU8GCkBbxnLjGD4d2t\"]},\"node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"node_modules/@latticexyz/store/src/tightcoder/EncodeArray.sol\":{\"keccak256\":\"0x1c280d24360282e196d9c4833c58c2437108cea2af0ac7596f95be81389e306d\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://6b4556b6eeae9328fbd9adcce346547e823c397503276a4d63effb67e00b5b49\",\"dweb:/ipfs/QmUsynVsMYzjh8oJR8YB7SRrwFMdXcsQsHBrXxLEEFxsiB\"]},\"node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]},\"node_modules/@latticexyz/store/src/version.sol\":{\"keccak256\":\"0x01029999a48b7c1d85de84cae465dd24ec126c95b8a865cd20c7ed5dfcc0f02c\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://9750164ce996badb0fd7df2f526780b9cb9558912405fe46f31064bd7c522491\",\"dweb:/ipfs/QmYf8m2ZXFANRc9ysHgNkNtSF327ccxKYjCUJ49UXBKADk\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol": "KeysWithValue"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol": "KeysWithValue"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol": {
         "keccak256": "0x27118a0cd6ac72257ba04ff98c7a62edd891305127f25bfe9586c134cc4a410b",
         "urls": [
           "bzz-raw://e838102eadc3956612b8c32e8542d463eeb16dcc234cfde4922c1d3ab01ad5c2",
@@ -333,66 +333,28 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+world-modules@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/world-modules/src/modules/keyswithvalue/tables/KeysWithValue.sol",
     "id": 22619,
     "exportedSymbols": {
-      "Bytes": [
-        65395
-      ],
-      "EncodeArray": [
-        73382
-      ],
-      "FieldLayout": [
-        65406
-      ],
-      "FieldLayoutLib": [
-        65551
-      ],
-      "IStore": [
-        65840
-      ],
-      "KeysWithValue": [
-        22618
-      ],
-      "Memory": [
-        65898
-      ],
-      "PackedCounter": [
-        65902
-      ],
-      "PackedCounterLib": [
-        66320
-      ],
-      "RESOURCE_OFFCHAIN_TABLE": [
-        71024
-      ],
-      "RESOURCE_TABLE": [
-        71020
-      ],
-      "ResourceId": [
-        66529
-      ],
-      "Schema": [
-        66612
-      ],
-      "SchemaLib": [
-        66767
-      ],
-      "SchemaType": [
-        64550
-      ],
-      "SliceLib": [
-        67233
-      ],
-      "StoreCore": [
-        69154
-      ],
-      "StoreSwitch": [
-        71014
-      ],
-      "_fieldLayout": [
-        20193
-      ]
+      "Bytes": [65395],
+      "EncodeArray": [73382],
+      "FieldLayout": [65406],
+      "FieldLayoutLib": [65551],
+      "IStore": [65840],
+      "KeysWithValue": [22618],
+      "Memory": [65898],
+      "PackedCounter": [65902],
+      "PackedCounterLib": [66320],
+      "RESOURCE_OFFCHAIN_TABLE": [71024],
+      "RESOURCE_TABLE": [71020],
+      "ResourceId": [66529],
+      "Schema": [66612],
+      "SchemaLib": [66767],
+      "SchemaType": [64550],
+      "SliceLib": [67233],
+      "StoreCore": [69154],
+      "StoreSwitch": [71014],
+      "_fieldLayout": [20193]
     },
     "nodeType": "SourceUnit",
     "src": "32:23005:35",
@@ -402,12 +364,7 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:35",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 20158,
@@ -817,9 +774,7 @@
           "pathNode": {
             "id": 20187,
             "name": "FieldLayout",
-            "nameLocations": [
-              "1106:11:35"
-            ],
+            "nameLocations": ["1106:11:35"],
             "nodeType": "IdentifierPath",
             "referencedDeclaration": 65406,
             "src": "1106:11:35"
@@ -979,9 +934,7 @@
                     "pathNode": {
                       "id": 20196,
                       "name": "FieldLayout",
-                      "nameLocations": [
-                        "1427:11:35"
-                      ],
+                      "nameLocations": ["1427:11:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65406,
                       "src": "1427:11:35"
@@ -1015,9 +968,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20214
-                  ],
+                  "assignments": [20214],
                   "declarations": [
                     {
                       "constant": false,
@@ -1041,9 +992,7 @@
                           "pathNode": {
                             "id": 20211,
                             "name": "SchemaType",
-                            "nameLocations": [
-                              "1642:10:35"
-                            ],
+                            "nameLocations": ["1642:10:35"],
                             "nodeType": "IdentifierPath",
                             "referencedDeclaration": 64550,
                             "src": "1642:10:35"
@@ -1111,9 +1060,7 @@
                           "pathNode": {
                             "id": 20215,
                             "name": "SchemaType",
-                            "nameLocations": [
-                              "1679:10:35"
-                            ],
+                            "nameLocations": ["1679:10:35"],
                             "nodeType": "IdentifierPath",
                             "referencedDeclaration": 64550,
                             "src": "1679:10:35"
@@ -1356,9 +1303,7 @@
                     "pathNode": {
                       "id": 20206,
                       "name": "Schema",
-                      "nameLocations": [
-                        "1628:6:35"
-                      ],
+                      "nameLocations": ["1628:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66612,
                       "src": "1628:6:35"
@@ -1392,9 +1337,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20246
-                  ],
+                  "assignments": [20246],
                   "declarations": [
                     {
                       "constant": false,
@@ -1418,9 +1361,7 @@
                           "pathNode": {
                             "id": 20243,
                             "name": "SchemaType",
-                            "nameLocations": [
-                              "1961:10:35"
-                            ],
+                            "nameLocations": ["1961:10:35"],
                             "nodeType": "IdentifierPath",
                             "referencedDeclaration": 64550,
                             "src": "1961:10:35"
@@ -1488,9 +1429,7 @@
                           "pathNode": {
                             "id": 20247,
                             "name": "SchemaType",
-                            "nameLocations": [
-                              "2000:10:35"
-                            ],
+                            "nameLocations": ["2000:10:35"],
                             "nodeType": "IdentifierPath",
                             "referencedDeclaration": 64550,
                             "src": "2000:10:35"
@@ -1733,9 +1672,7 @@
                     "pathNode": {
                       "id": 20238,
                       "name": "Schema",
-                      "nameLocations": [
-                        "1947:6:35"
-                      ],
+                      "nameLocations": ["1947:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66612,
                       "src": "1947:6:35"
@@ -2548,9 +2485,7 @@
                     "pathNode": {
                       "id": 20313,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "2761:10:35"
-                      ],
+                      "nameLocations": ["2761:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "2761:10:35"
@@ -2853,9 +2788,7 @@
                     "pathNode": {
                       "id": 20336,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "3001:10:35"
-                      ],
+                      "nameLocations": ["3001:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "3001:10:35"
@@ -3158,9 +3091,7 @@
                     "pathNode": {
                       "id": 20359,
                       "name": "IStore",
-                      "nameLocations": [
-                        "3266:6:35"
-                      ],
+                      "nameLocations": ["3266:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "3266:6:35"
@@ -3195,9 +3126,7 @@
                     "pathNode": {
                       "id": 20362,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "3281:10:35"
-                      ],
+                      "nameLocations": ["3281:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "3281:10:35"
@@ -3237,9 +3166,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20399
-                  ],
+                  "assignments": [20399],
                   "declarations": [
                     {
                       "constant": false,
@@ -3428,9 +3355,7 @@
                   "src": "3670:24:35"
                 },
                 {
-                  "assignments": [
-                    20413
-                  ],
+                  "assignments": [20413],
                   "declarations": [
                     {
                       "constant": false,
@@ -3776,9 +3701,7 @@
                     "pathNode": {
                       "id": 20385,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "3511:10:35"
-                      ],
+                      "nameLocations": ["3511:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "3511:10:35"
@@ -3882,9 +3805,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20449
-                  ],
+                  "assignments": [20449],
                   "declarations": [
                     {
                       "constant": false,
@@ -4073,9 +3994,7 @@
                   "src": "4098:24:35"
                 },
                 {
-                  "assignments": [
-                    20463
-                  ],
+                  "assignments": [20463],
                   "declarations": [
                     {
                       "constant": false,
@@ -4421,9 +4340,7 @@
                     "pathNode": {
                       "id": 20435,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "3939:10:35"
-                      ],
+                      "nameLocations": ["3939:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "3939:10:35"
@@ -4527,9 +4444,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20502
-                  ],
+                  "assignments": [20502],
                   "declarations": [
                     {
                       "constant": false,
@@ -4718,9 +4633,7 @@
                   "src": "4570:24:35"
                 },
                 {
-                  "assignments": [
-                    20516
-                  ],
+                  "assignments": [20516],
                   "declarations": [
                     {
                       "constant": false,
@@ -5066,9 +4979,7 @@
                     "pathNode": {
                       "id": 20485,
                       "name": "IStore",
-                      "nameLocations": [
-                        "4392:6:35"
-                      ],
+                      "nameLocations": ["4392:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "4392:6:35"
@@ -5103,9 +5014,7 @@
                     "pathNode": {
                       "id": 20488,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "4411:10:35"
-                      ],
+                      "nameLocations": ["4411:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "4411:10:35"
@@ -5209,9 +5118,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20552
-                  ],
+                  "assignments": [20552],
                   "declarations": [
                     {
                       "constant": false,
@@ -5400,9 +5307,7 @@
                   "src": "4967:24:35"
                 },
                 {
-                  "assignments": [
-                    20566
-                  ],
+                  "assignments": [20566],
                   "declarations": [
                     {
                       "constant": false,
@@ -5748,9 +5653,7 @@
                     "pathNode": {
                       "id": 20538,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "4815:10:35"
-                      ],
+                      "nameLocations": ["4815:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "4815:10:35"
@@ -5854,9 +5757,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20602
-                  ],
+                  "assignments": [20602],
                   "declarations": [
                     {
                       "constant": false,
@@ -6045,9 +5946,7 @@
                   "src": "5370:24:35"
                 },
                 {
-                  "assignments": [
-                    20616
-                  ],
+                  "assignments": [20616],
                   "declarations": [
                     {
                       "constant": false,
@@ -6393,9 +6292,7 @@
                     "pathNode": {
                       "id": 20588,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "5218:10:35"
-                      ],
+                      "nameLocations": ["5218:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "5218:10:35"
@@ -6499,9 +6396,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20655
-                  ],
+                  "assignments": [20655],
                   "declarations": [
                     {
                       "constant": false,
@@ -6690,9 +6585,7 @@
                   "src": "5829:24:35"
                 },
                 {
-                  "assignments": [
-                    20669
-                  ],
+                  "assignments": [20669],
                   "declarations": [
                     {
                       "constant": false,
@@ -7038,9 +6931,7 @@
                     "pathNode": {
                       "id": 20638,
                       "name": "IStore",
-                      "nameLocations": [
-                        "5651:6:35"
-                      ],
+                      "nameLocations": ["5651:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "5651:6:35"
@@ -7075,9 +6966,7 @@
                     "pathNode": {
                       "id": 20641,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "5670:10:35"
-                      ],
+                      "nameLocations": ["5670:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "5670:10:35"
@@ -7181,9 +7070,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20705
-                  ],
+                  "assignments": [20705],
                   "declarations": [
                     {
                       "constant": false,
@@ -7600,9 +7487,7 @@
                     "pathNode": {
                       "id": 20691,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "6087:10:35"
-                      ],
+                      "nameLocations": ["6087:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "6087:10:35"
@@ -7705,9 +7590,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20748
-                  ],
+                  "assignments": [20748],
                   "declarations": [
                     {
                       "constant": false,
@@ -8124,9 +8007,7 @@
                     "pathNode": {
                       "id": 20734,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "6424:10:35"
-                      ],
+                      "nameLocations": ["6424:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "6424:10:35"
@@ -8229,9 +8110,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20794
-                  ],
+                  "assignments": [20794],
                   "declarations": [
                     {
                       "constant": false,
@@ -8648,9 +8527,7 @@
                     "pathNode": {
                       "id": 20777,
                       "name": "IStore",
-                      "nameLocations": [
-                        "6791:6:35"
-                      ],
+                      "nameLocations": ["6791:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "6791:6:35"
@@ -8685,9 +8562,7 @@
                     "pathNode": {
                       "id": 20780,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "6810:10:35"
-                      ],
+                      "nameLocations": ["6810:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "6810:10:35"
@@ -8790,9 +8665,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20837
-                  ],
+                  "assignments": [20837],
                   "declarations": [
                     {
                       "constant": false,
@@ -9209,9 +9082,7 @@
                     "pathNode": {
                       "id": 20823,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "7139:10:35"
-                      ],
+                      "nameLocations": ["7139:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "7139:10:35"
@@ -9314,9 +9185,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20880
-                  ],
+                  "assignments": [20880],
                   "declarations": [
                     {
                       "constant": false,
@@ -9733,9 +9602,7 @@
                     "pathNode": {
                       "id": 20866,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "7463:10:35"
-                      ],
+                      "nameLocations": ["7463:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "7463:10:35"
@@ -9838,9 +9705,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20926
-                  ],
+                  "assignments": [20926],
                   "declarations": [
                     {
                       "constant": false,
@@ -10257,9 +10122,7 @@
                     "pathNode": {
                       "id": 20909,
                       "name": "IStore",
-                      "nameLocations": [
-                        "7812:6:35"
-                      ],
+                      "nameLocations": ["7812:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "7812:6:35"
@@ -10294,9 +10157,7 @@
                     "pathNode": {
                       "id": 20912,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "7827:10:35"
-                      ],
+                      "nameLocations": ["7827:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "7827:10:35"
@@ -10399,9 +10260,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    20968
-                  ],
+                  "assignments": [20968],
                   "declarations": [
                     {
                       "constant": false,
@@ -10590,9 +10449,7 @@
                   "src": "8304:24:35"
                 },
                 {
-                  "assignments": [
-                    20982
-                  ],
+                  "assignments": [20982],
                   "declarations": [
                     {
                       "constant": false,
@@ -10824,9 +10681,7 @@
                     "pathNode": {
                       "id": 20955,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "8175:10:35"
-                      ],
+                      "nameLocations": ["8175:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "8175:10:35"
@@ -10921,9 +10776,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21011
-                  ],
+                  "assignments": [21011],
                   "declarations": [
                     {
                       "constant": false,
@@ -11112,9 +10965,7 @@
                   "src": "8693:24:35"
                 },
                 {
-                  "assignments": [
-                    21025
-                  ],
+                  "assignments": [21025],
                   "declarations": [
                     {
                       "constant": false,
@@ -11346,9 +11197,7 @@
                     "pathNode": {
                       "id": 20998,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "8564:10:35"
-                      ],
+                      "nameLocations": ["8564:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "8564:10:35"
@@ -11443,9 +11292,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21057
-                  ],
+                  "assignments": [21057],
                   "declarations": [
                     {
                       "constant": false,
@@ -11634,9 +11481,7 @@
                   "src": "9122:24:35"
                 },
                 {
-                  "assignments": [
-                    21071
-                  ],
+                  "assignments": [21071],
                   "declarations": [
                     {
                       "constant": false,
@@ -11868,9 +11713,7 @@
                     "pathNode": {
                       "id": 21041,
                       "name": "IStore",
-                      "nameLocations": [
-                        "8978:6:35"
-                      ],
+                      "nameLocations": ["8978:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "8978:6:35"
@@ -11905,9 +11748,7 @@
                     "pathNode": {
                       "id": 21044,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "8993:10:35"
-                      ],
+                      "nameLocations": ["8993:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "8993:10:35"
@@ -12002,9 +11843,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21100
-                  ],
+                  "assignments": [21100],
                   "declarations": [
                     {
                       "constant": false,
@@ -12193,9 +12032,7 @@
                   "src": "9492:24:35"
                 },
                 {
-                  "assignments": [
-                    21114
-                  ],
+                  "assignments": [21114],
                   "declarations": [
                     {
                       "constant": false,
@@ -12427,9 +12264,7 @@
                     "pathNode": {
                       "id": 21087,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "9363:10:35"
-                      ],
+                      "nameLocations": ["9363:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "9363:10:35"
@@ -12524,9 +12359,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21143
-                  ],
+                  "assignments": [21143],
                   "declarations": [
                     {
                       "constant": false,
@@ -12715,9 +12548,7 @@
                   "src": "9868:24:35"
                 },
                 {
-                  "assignments": [
-                    21157
-                  ],
+                  "assignments": [21157],
                   "declarations": [
                     {
                       "constant": false,
@@ -12949,9 +12780,7 @@
                     "pathNode": {
                       "id": 21130,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "9739:10:35"
-                      ],
+                      "nameLocations": ["9739:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "9739:10:35"
@@ -13046,9 +12875,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21189
-                  ],
+                  "assignments": [21189],
                   "declarations": [
                     {
                       "constant": false,
@@ -13237,9 +13064,7 @@
                   "src": "10284:24:35"
                 },
                 {
-                  "assignments": [
-                    21203
-                  ],
+                  "assignments": [21203],
                   "declarations": [
                     {
                       "constant": false,
@@ -13471,9 +13296,7 @@
                     "pathNode": {
                       "id": 21173,
                       "name": "IStore",
-                      "nameLocations": [
-                        "10140:6:35"
-                      ],
+                      "nameLocations": ["10140:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "10140:6:35"
@@ -13508,9 +13331,7 @@
                     "pathNode": {
                       "id": 21176,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "10155:10:35"
-                      ],
+                      "nameLocations": ["10155:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "10155:10:35"
@@ -13605,9 +13426,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21234
-                  ],
+                  "assignments": [21234],
                   "declarations": [
                     {
                       "constant": false,
@@ -13801,9 +13620,7 @@
                   "src": "10818:165:35",
                   "statements": [
                     {
-                      "assignments": [
-                        21248
-                      ],
+                      "assignments": [21248],
                       "declarations": [
                         {
                           "constant": false,
@@ -14207,9 +14024,7 @@
                     "pathNode": {
                       "id": 21219,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "10631:10:35"
-                      ],
+                      "nameLocations": ["10631:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "10631:10:35"
@@ -14331,9 +14146,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21290
-                  ],
+                  "assignments": [21290],
                   "declarations": [
                     {
                       "constant": false,
@@ -14527,9 +14340,7 @@
                   "src": "11359:163:35",
                   "statements": [
                     {
-                      "assignments": [
-                        21304
-                      ],
+                      "assignments": [21304],
                       "declarations": [
                         {
                           "constant": false,
@@ -14933,9 +14744,7 @@
                     "pathNode": {
                       "id": 21275,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "11172:10:35"
-                      ],
+                      "nameLocations": ["11172:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "11172:10:35"
@@ -15057,9 +14866,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21349
-                  ],
+                  "assignments": [21349],
                   "declarations": [
                     {
                       "constant": false,
@@ -15253,9 +15060,7 @@
                   "src": "11944:160:35",
                   "statements": [
                     {
-                      "assignments": [
-                        21363
-                      ],
+                      "assignments": [21363],
                       "declarations": [
                         {
                           "constant": false,
@@ -15659,9 +15464,7 @@
                     "pathNode": {
                       "id": 21331,
                       "name": "IStore",
-                      "nameLocations": [
-                        "11738:6:35"
-                      ],
+                      "nameLocations": ["11738:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "11738:6:35"
@@ -15696,9 +15499,7 @@
                     "pathNode": {
                       "id": 21334,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "11757:10:35"
-                      ],
+                      "nameLocations": ["11757:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "11757:10:35"
@@ -15820,9 +15621,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21405
-                  ],
+                  "assignments": [21405],
                   "declarations": [
                     {
                       "constant": false,
@@ -16016,9 +15815,7 @@
                   "src": "12450:165:35",
                   "statements": [
                     {
-                      "assignments": [
-                        21419
-                      ],
+                      "assignments": [21419],
                       "declarations": [
                         {
                           "constant": false,
@@ -16422,9 +16219,7 @@
                     "pathNode": {
                       "id": 21390,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "12274:10:35"
-                      ],
+                      "nameLocations": ["12274:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "12274:10:35"
@@ -16546,9 +16341,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21461
-                  ],
+                  "assignments": [21461],
                   "declarations": [
                     {
                       "constant": false,
@@ -16742,9 +16535,7 @@
                   "src": "12962:163:35",
                   "statements": [
                     {
-                      "assignments": [
-                        21475
-                      ],
+                      "assignments": [21475],
                       "declarations": [
                         {
                           "constant": false,
@@ -17148,9 +16939,7 @@
                     "pathNode": {
                       "id": 21446,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "12786:10:35"
-                      ],
+                      "nameLocations": ["12786:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "12786:10:35"
@@ -17272,9 +17061,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21520
-                  ],
+                  "assignments": [21520],
                   "declarations": [
                     {
                       "constant": false,
@@ -17468,9 +17255,7 @@
                   "src": "13534:160:35",
                   "statements": [
                     {
-                      "assignments": [
-                        21534
-                      ],
+                      "assignments": [21534],
                       "declarations": [
                         {
                           "constant": false,
@@ -17874,9 +17659,7 @@
                     "pathNode": {
                       "id": 21502,
                       "name": "IStore",
-                      "nameLocations": [
-                        "13328:6:35"
-                      ],
+                      "nameLocations": ["13328:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "13328:6:35"
@@ -17911,9 +17694,7 @@
                     "pathNode": {
                       "id": 21505,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "13347:10:35"
-                      ],
+                      "nameLocations": ["13347:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "13347:10:35"
@@ -18035,9 +17816,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21574
-                  ],
+                  "assignments": [21574],
                   "declarations": [
                     {
                       "constant": false,
@@ -18453,9 +18232,7 @@
                     "pathNode": {
                       "id": 21561,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "13788:10:35"
-                      ],
+                      "nameLocations": ["13788:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "13788:10:35"
@@ -18549,9 +18326,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21616
-                  ],
+                  "assignments": [21616],
                   "declarations": [
                     {
                       "constant": false,
@@ -18967,9 +18742,7 @@
                     "pathNode": {
                       "id": 21603,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "14123:10:35"
-                      ],
+                      "nameLocations": ["14123:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "14123:10:35"
@@ -19063,9 +18836,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21661
-                  ],
+                  "assignments": [21661],
                   "declarations": [
                     {
                       "constant": false,
@@ -19481,9 +19252,7 @@
                     "pathNode": {
                       "id": 21645,
                       "name": "IStore",
-                      "nameLocations": [
-                        "14483:6:35"
-                      ],
+                      "nameLocations": ["14483:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "14483:6:35"
@@ -19518,9 +19287,7 @@
                     "pathNode": {
                       "id": 21648,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "14498:10:35"
-                      ],
+                      "nameLocations": ["14498:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "14498:10:35"
@@ -19614,9 +19381,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21703
-                  ],
+                  "assignments": [21703],
                   "declarations": [
                     {
                       "constant": false,
@@ -20032,9 +19797,7 @@
                     "pathNode": {
                       "id": 21690,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "14814:10:35"
-                      ],
+                      "nameLocations": ["14814:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "14814:10:35"
@@ -20128,9 +19891,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21745
-                  ],
+                  "assignments": [21745],
                   "declarations": [
                     {
                       "constant": false,
@@ -20546,9 +20307,7 @@
                     "pathNode": {
                       "id": 21732,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "15136:10:35"
-                      ],
+                      "nameLocations": ["15136:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "15136:10:35"
@@ -20642,9 +20401,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21790
-                  ],
+                  "assignments": [21790],
                   "declarations": [
                     {
                       "constant": false,
@@ -21060,9 +20817,7 @@
                     "pathNode": {
                       "id": 21774,
                       "name": "IStore",
-                      "nameLocations": [
-                        "15483:6:35"
-                      ],
+                      "nameLocations": ["15483:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "15483:6:35"
@@ -21097,9 +20852,7 @@
                     "pathNode": {
                       "id": 21777,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "15498:10:35"
-                      ],
+                      "nameLocations": ["15498:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "15498:10:35"
@@ -21193,9 +20946,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21830
-                  ],
+                  "assignments": [21830],
                   "declarations": [
                     {
                       "constant": false,
@@ -21547,9 +21298,7 @@
                     "pathNode": {
                       "id": 21819,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "15827:10:35"
-                      ],
+                      "nameLocations": ["15827:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "15827:10:35"
@@ -21616,9 +21365,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21866
-                  ],
+                  "assignments": [21866],
                   "declarations": [
                     {
                       "constant": false,
@@ -21970,9 +21717,7 @@
                     "pathNode": {
                       "id": 21855,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "16119:10:35"
-                      ],
+                      "nameLocations": ["16119:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "16119:10:35"
@@ -22039,9 +21784,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21905
-                  ],
+                  "assignments": [21905],
                   "declarations": [
                     {
                       "constant": false,
@@ -22393,9 +22136,7 @@
                     "pathNode": {
                       "id": 21891,
                       "name": "IStore",
-                      "nameLocations": [
-                        "16436:6:35"
-                      ],
+                      "nameLocations": ["16436:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "16436:6:35"
@@ -22430,9 +22171,7 @@
                     "pathNode": {
                       "id": 21894,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "16451:10:35"
-                      ],
+                      "nameLocations": ["16451:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "16451:10:35"
@@ -22499,9 +22238,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21941
-                  ],
+                  "assignments": [21941],
                   "declarations": [
                     {
                       "constant": false,
@@ -22853,9 +22590,7 @@
                     "pathNode": {
                       "id": 21930,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "16724:10:35"
-                      ],
+                      "nameLocations": ["16724:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "16724:10:35"
@@ -22922,9 +22657,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    21977
-                  ],
+                  "assignments": [21977],
                   "declarations": [
                     {
                       "constant": false,
@@ -23276,9 +23009,7 @@
                     "pathNode": {
                       "id": 21966,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "17003:10:35"
-                      ],
+                      "nameLocations": ["17003:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "17003:10:35"
@@ -23345,9 +23076,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22016
-                  ],
+                  "assignments": [22016],
                   "declarations": [
                     {
                       "constant": false,
@@ -23699,9 +23428,7 @@
                     "pathNode": {
                       "id": 22002,
                       "name": "IStore",
-                      "nameLocations": [
-                        "17307:6:35"
-                      ],
+                      "nameLocations": ["17307:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "17307:6:35"
@@ -23736,9 +23463,7 @@
                     "pathNode": {
                       "id": 22005,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "17322:10:35"
-                      ],
+                      "nameLocations": ["17322:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "17322:10:35"
@@ -23805,9 +23530,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22056
-                  ],
+                  "assignments": [22056],
                   "declarations": [
                     {
                       "constant": false,
@@ -24001,9 +23724,7 @@
                   "src": "17795:194:35",
                   "statements": [
                     {
-                      "assignments": [
-                        22070
-                      ],
+                      "assignments": [22070],
                       "declarations": [
                         {
                           "constant": false,
@@ -24450,9 +24171,7 @@
                     "pathNode": {
                       "id": 22041,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "17624:10:35"
-                      ],
+                      "nameLocations": ["17624:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "17624:10:35"
@@ -24573,9 +24292,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22116
-                  ],
+                  "assignments": [22116],
                   "declarations": [
                     {
                       "constant": false,
@@ -24769,9 +24486,7 @@
                   "src": "18271:192:35",
                   "statements": [
                     {
-                      "assignments": [
-                        22130
-                      ],
+                      "assignments": [22130],
                       "declarations": [
                         {
                           "constant": false,
@@ -25218,9 +24933,7 @@
                     "pathNode": {
                       "id": 22101,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "18100:10:35"
-                      ],
+                      "nameLocations": ["18100:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "18100:10:35"
@@ -25341,9 +25054,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22179
-                  ],
+                  "assignments": [22179],
                   "declarations": [
                     {
                       "constant": false,
@@ -25537,9 +25248,7 @@
                   "src": "18811:189:35",
                   "statements": [
                     {
-                      "assignments": [
-                        22193
-                      ],
+                      "assignments": [22193],
                       "declarations": [
                         {
                           "constant": false,
@@ -25986,9 +25695,7 @@
                     "pathNode": {
                       "id": 22161,
                       "name": "IStore",
-                      "nameLocations": [
-                        "18606:6:35"
-                      ],
+                      "nameLocations": ["18606:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "18606:6:35"
@@ -26023,9 +25730,7 @@
                     "pathNode": {
                       "id": 22164,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "18625:10:35"
-                      ],
+                      "nameLocations": ["18625:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "18625:10:35"
@@ -26146,9 +25851,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22239
-                  ],
+                  "assignments": [22239],
                   "declarations": [
                     {
                       "constant": false,
@@ -26342,9 +26045,7 @@
                   "src": "19268:194:35",
                   "statements": [
                     {
-                      "assignments": [
-                        22253
-                      ],
+                      "assignments": [22253],
                       "declarations": [
                         {
                           "constant": false,
@@ -26791,9 +26492,7 @@
                     "pathNode": {
                       "id": 22224,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "19097:10:35"
-                      ],
+                      "nameLocations": ["19097:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "19097:10:35"
@@ -26914,9 +26613,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22299
-                  ],
+                  "assignments": [22299],
                   "declarations": [
                     {
                       "constant": false,
@@ -27110,9 +26807,7 @@
                   "src": "19731:192:35",
                   "statements": [
                     {
-                      "assignments": [
-                        22313
-                      ],
+                      "assignments": [22313],
                       "declarations": [
                         {
                           "constant": false,
@@ -27559,9 +27254,7 @@
                     "pathNode": {
                       "id": 22284,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "19560:10:35"
-                      ],
+                      "nameLocations": ["19560:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "19560:10:35"
@@ -27682,9 +27375,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22362
-                  ],
+                  "assignments": [22362],
                   "declarations": [
                     {
                       "constant": false,
@@ -27878,9 +27569,7 @@
                   "src": "20234:189:35",
                   "statements": [
                     {
-                      "assignments": [
-                        22376
-                      ],
+                      "assignments": [22376],
                       "declarations": [
                         {
                           "constant": false,
@@ -28327,9 +28016,7 @@
                     "pathNode": {
                       "id": 22344,
                       "name": "IStore",
-                      "nameLocations": [
-                        "20048:6:35"
-                      ],
+                      "nameLocations": ["20048:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "20048:6:35"
@@ -28364,9 +28051,7 @@
                     "pathNode": {
                       "id": 22347,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "20063:10:35"
-                      ],
+                      "nameLocations": ["20063:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "20063:10:35"
@@ -28487,9 +28172,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22418
-                  ],
+                  "assignments": [22418],
                   "declarations": [
                     {
                       "constant": false,
@@ -28801,9 +28484,7 @@
                     "pathNode": {
                       "id": 22407,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "20510:10:35"
-                      ],
+                      "nameLocations": ["20510:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "20510:10:35"
@@ -28870,9 +28551,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22452
-                  ],
+                  "assignments": [22452],
                   "declarations": [
                     {
                       "constant": false,
@@ -29200,9 +28879,7 @@
                     "pathNode": {
                       "id": 22441,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "20781:10:35"
-                      ],
+                      "nameLocations": ["20781:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "20781:10:35"
@@ -29269,9 +28946,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22490
-                  ],
+                  "assignments": [22490],
                   "declarations": [
                     {
                       "constant": false,
@@ -29583,9 +29258,7 @@
                     "pathNode": {
                       "id": 22476,
                       "name": "IStore",
-                      "nameLocations": [
-                        "21091:6:35"
-                      ],
+                      "nameLocations": ["21091:6:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65840,
                       "src": "21091:6:35"
@@ -29620,9 +29293,7 @@
                     "pathNode": {
                       "id": 22479,
                       "name": "ResourceId",
-                      "nameLocations": [
-                        "21106:10:35"
-                      ],
+                      "nameLocations": ["21106:10:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 66529,
                       "src": "21106:10:35"
@@ -29921,9 +29592,7 @@
                     "pathNode": {
                       "id": 22517,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "21557:13:35"
-                      ],
+                      "nameLocations": ["21557:13:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65902,
                       "src": "21557:13:35"
@@ -30202,9 +29871,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22567
-                  ],
+                  "assignments": [22567],
                   "declarations": [
                     {
                       "constant": false,
@@ -30239,9 +29906,7 @@
                   "src": "22533:24:35"
                 },
                 {
-                  "assignments": [
-                    22571
-                  ],
+                  "assignments": [22571],
                   "declarations": [
                     {
                       "constant": false,
@@ -30264,9 +29929,7 @@
                         "pathNode": {
                           "id": 22569,
                           "name": "PackedCounter",
-                          "nameLocations": [
-                            "22563:13:35"
-                          ],
+                          "nameLocations": ["22563:13:35"],
                           "nodeType": "IdentifierPath",
                           "referencedDeclaration": 65902,
                           "src": "22563:13:35"
@@ -30335,9 +29998,7 @@
                   "src": "22563:60:35"
                 },
                 {
-                  "assignments": [
-                    22577
-                  ],
+                  "assignments": [22577],
                   "declarations": [
                     {
                       "constant": false,
@@ -30586,9 +30247,7 @@
                     "pathNode": {
                       "id": 22560,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "22498:13:35"
-                      ],
+                      "nameLocations": ["22498:13:35"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 65902,
                       "src": "22498:13:35"
@@ -30649,9 +30308,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    22601
-                  ],
+                  "assignments": [22601],
                   "declarations": [
                     {
                       "constant": false,
@@ -30959,9 +30616,7 @@
         "contractDependencies": [],
         "contractKind": "library",
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          22618
-        ],
+        "linearizedBaseContracts": [22618],
         "name": "KeysWithValue",
         "nameLocation": "1241:13:35",
         "scope": 22619,

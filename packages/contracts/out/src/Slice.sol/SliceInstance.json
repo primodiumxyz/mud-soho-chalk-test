@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"title\":\"Instance functions for Slice\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":\"SliceInstance\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"title\":\"Instance functions for Slice\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":\"SliceInstance\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol\":{\"keccak256\":\"0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5\",\"dweb:/ipfs/QmeSE7YTW5zUrfZYFVb2pFnDe3XxiT8XNecfwC3wfpxCRv\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol\":{\"keccak256\":\"0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c\",\"dweb:/ipfs/QmTCN3NSdFg87hi7KS2Xtq7PsmRUMG64SxC8PtP3p2GzuT\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol\":{\"keccak256\":\"0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401\",\"dweb:/ipfs/QmeLcaPGeMBpNSTSsPYK3PHpzKuGMjuitCweAWcoXK2mXr\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol\":{\"keccak256\":\"0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1\",\"dweb:/ipfs/QmR8jGNLbt64Tv1YZKRVBCVsd71oeUQFzGHHtpsrs4PuRq\"]},\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol\":{\"keccak256\":\"0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256\",\"dweb:/ipfs/QmQz5WwztcuTbSGFv2pkhU3w5scUj1gmavoyUpduxk2v3A\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": "SliceInstance"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": "SliceInstance"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol": {
         "keccak256": "0x69295976e61a1a108d1b4d6eb497b238730309f3047c4320d48e01a0ce8d4ec7",
         "urls": [
           "bzz-raw://559c451b21fb9dd4fec27b41bef42f4362f1e7ebb7992106d548b9d4f733b3e5",
@@ -57,7 +57,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol": {
         "keccak256": "0xfaf54b1f5acccd4c6ce3f8377050ee84efbb423cb604b4651e8b9ea3b467bf32",
         "urls": [
           "bzz-raw://acf2ce7ffec21f28ad1dc6da06c342f1212a03a3d16a0be7ee85715a5940718c",
@@ -65,7 +65,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/leftMask.sol": {
         "keccak256": "0xd0360567e4d77c6a8e3d8a5f4bf3653ccde4d268674c50988d55695dc6193f6f",
         "urls": [
           "bzz-raw://53e6bcb53fcb08ee9426225fdab7c41df91e12cb4f80d92895a6117338627401",
@@ -73,7 +73,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol": {
         "keccak256": "0x1af0fd984640123391ec2df855d00298504b7ce186a56c2caca769cfd9e08e04",
         "urls": [
           "bzz-raw://7305a62318890d2cc6420ba7dec13d9f2c1cb67ac689015fc83b9cbccd0696f1",
@@ -81,7 +81,7 @@
         ],
         "license": "MIT"
       },
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/TightCoder.sol": {
         "keccak256": "0x5cacd4cb371e0a79bc8d64f62349d568fd8b08093c11ae0c3db4f16480d8808b",
         "urls": [
           "bzz-raw://12b64ddf2b5c19cf68ba93a8153ed79cbafe7a91e015d4b2f25eb1d42ab06256",
@@ -93,24 +93,14 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Slice.sol",
     "id": 3697,
     "exportedSymbols": {
-      "DecodeSlice": [
-        17618
-      ],
-      "Memory": [
-        2264
-      ],
-      "Slice": [
-        3454
-      ],
-      "SliceInstance": [
-        3696
-      ],
-      "SliceLib": [
-        3599
-      ]
+      "DecodeSlice": [17618],
+      "Memory": [2264],
+      "Slice": [3454],
+      "SliceInstance": [3696],
+      "SliceLib": [3599]
     },
     "nodeType": "SourceUnit",
     "src": "32:4409:16",
@@ -120,19 +110,14 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:16",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 3450,
         "nodeType": "ImportDirective",
         "src": "59:38:16",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/Memory.sol",
         "file": "./Memory.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 3697,
@@ -158,7 +143,7 @@
         "nodeType": "ImportDirective",
         "src": "98:59:16",
         "nodes": [],
-        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol",
+        "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/tightcoder/DecodeSlice.sol",
         "file": "./tightcoder/DecodeSlice.sol",
         "nameLocation": "-1:-1:-1",
         "scope": 3697,
@@ -207,9 +192,7 @@
         "libraryName": {
           "id": 3455,
           "name": "SliceInstance",
-          "nameLocations": [
-            "404:13:16"
-          ],
+          "nameLocations": ["404:13:16"],
           "nodeType": "IdentifierPath",
           "referencedDeclaration": 3696,
           "src": "404:13:16"
@@ -220,9 +203,7 @@
           "pathNode": {
             "id": 3456,
             "name": "Slice",
-            "nameLocations": [
-              "422:5:16"
-            ],
+            "nameLocations": ["422:5:16"],
             "nodeType": "IdentifierPath",
             "referencedDeclaration": 3454,
             "src": "422:5:16"
@@ -244,9 +225,7 @@
         "libraryName": {
           "id": 3459,
           "name": "DecodeSlice",
-          "nameLocations": [
-            "442:11:16"
-          ],
+          "nameLocations": ["442:11:16"],
           "nodeType": "IdentifierPath",
           "referencedDeclaration": 17618,
           "src": "442:11:16"
@@ -257,9 +236,7 @@
           "pathNode": {
             "id": 3460,
             "name": "Slice",
-            "nameLocations": [
-              "458:5:16"
-            ],
+            "nameLocations": ["458:5:16"],
             "nodeType": "IdentifierPath",
             "referencedDeclaration": 3454,
             "src": "458:5:16"
@@ -710,9 +687,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    3503
-                  ],
+                  "assignments": [3503],
                   "declarations": [
                     {
                       "constant": false,
@@ -1098,9 +1073,7 @@
                     "pathNode": {
                       "id": 3498,
                       "name": "Slice",
-                      "nameLocations": [
-                        "977:5:16"
-                      ],
+                      "nameLocations": ["977:5:16"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "977:5:16"
@@ -1206,10 +1179,7 @@
                       "id": 3532,
                       "name": "getSubslice",
                       "nodeType": "Identifier",
-                      "overloadedDeclarations": [
-                        3540,
-                        3598
-                      ],
+                      "overloadedDeclarations": [3540, 3598],
                       "referencedDeclaration": 3598,
                       "src": "1620:11:16",
                       "typeDescriptions": {
@@ -1337,9 +1307,7 @@
                     "pathNode": {
                       "id": 3528,
                       "name": "Slice",
-                      "nameLocations": [
-                        "1600:5:16"
-                      ],
+                      "nameLocations": ["1600:5:16"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "1600:5:16"
@@ -1612,9 +1580,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    3571
-                  ],
+                  "assignments": [3571],
                   "declarations": [
                     {
                       "constant": false,
@@ -1761,9 +1727,7 @@
                   "src": "2396:17:16"
                 },
                 {
-                  "assignments": [
-                    3579
-                  ],
+                  "assignments": [3579],
                   "declarations": [
                     {
                       "constant": false,
@@ -2161,9 +2125,7 @@
                     "pathNode": {
                       "id": 3549,
                       "name": "Slice",
-                      "nameLocations": [
-                        "2113:5:16"
-                      ],
+                      "nameLocations": ["2113:5:16"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "2113:5:16"
@@ -2198,15 +2160,11 @@
           "text": " @title Static functions for Slice"
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          3599
-        ],
+        "linearizedBaseContracts": [3599],
         "name": "SliceLib",
         "nameLocation": "526:8:16",
         "scope": 3697,
-        "usedErrors": [
-          3471
-        ],
+        "usedErrors": [3471],
         "usedEvents": []
       },
       {
@@ -2367,9 +2325,7 @@
                     "pathNode": {
                       "id": 3602,
                       "name": "Slice",
-                      "nameLocations": [
-                        "2867:5:16"
-                      ],
+                      "nameLocations": ["2867:5:16"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "2867:5:16"
@@ -2590,9 +2546,7 @@
                     "pathNode": {
                       "id": 3619,
                       "name": "Slice",
-                      "nameLocations": [
-                        "3130:5:16"
-                      ],
+                      "nameLocations": ["3130:5:16"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "3130:5:16"
@@ -2660,9 +2614,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    3645
-                  ],
+                  "assignments": [3645],
                   "declarations": [
                     {
                       "constant": false,
@@ -2746,9 +2698,7 @@
                   "src": "3571:35:16"
                 },
                 {
-                  "assignments": [
-                    3651
-                  ],
+                  "assignments": [3651],
                   "declarations": [
                     {
                       "constant": false,
@@ -2923,9 +2873,7 @@
                   "src": "3709:25:16"
                 },
                 {
-                  "assignments": [
-                    3664
-                  ],
+                  "assignments": [3664],
                   "declarations": [
                     {
                       "constant": false,
@@ -3168,9 +3116,7 @@
                     "pathNode": {
                       "id": 3637,
                       "name": "Slice",
-                      "nameLocations": [
-                        "3511:5:16"
-                      ],
+                      "nameLocations": ["3511:5:16"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "3511:5:16"
@@ -3238,9 +3184,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    3686
-                  ],
+                  "assignments": [3686],
                   "declarations": [
                     {
                       "constant": false,
@@ -3439,9 +3383,7 @@
                     "pathNode": {
                       "id": 3678,
                       "name": "Slice",
-                      "nameLocations": [
-                        "4222:5:16"
-                      ],
+                      "nameLocations": ["4222:5:16"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 3454,
                       "src": "4222:5:16"
@@ -3510,9 +3452,7 @@
           "text": " @title Instance functions for Slice"
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          3696
-        ],
+        "linearizedBaseContracts": [3696],
         "name": "SliceInstance",
         "nameLocation": "2651:13:16",
         "scope": 3697,

@@ -11,7 +11,7 @@
     "linkReferences": {}
   },
   "methodIdentifiers": {},
-  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides utility functions to pack values into a PackedCounter. The caller must ensure that the value arguments are <= MAX_VAL.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"PackedCounter Library\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"notice\":\"Static functions for handling PackedCounter type.\",\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol\":\"PackedCounterLib\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol\":{\"keccak256\":\"0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0\",\"dweb:/ipfs/QmNkyzDobVQLoq9BtQ8HtgsPLiqnmi97EZx1wsu6wp8nKH\"]}},\"version\":1}",
+  "rawMetadata": "{\"compiler\":{\"version\":\"0.8.21+commit.d9974bed\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"details\":\"Provides utility functions to pack values into a PackedCounter. The caller must ensure that the value arguments are <= MAX_VAL.\",\"kind\":\"dev\",\"methods\":{},\"title\":\"PackedCounter Library\",\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"notice\":\"Static functions for handling PackedCounter type.\",\"version\":1}},\"settings\":{\"compilationTarget\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol\":\"PackedCounterLib\"},\"evmVersion\":\"paris\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":3000},\"remappings\":[\":@latticexyz/=node_modules/@latticexyz/\",\":ds-test/=node_modules/ds-test/src/\",\":forge-std/=node_modules/forge-std/src/\"]},\"sources\":{\"/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol\":{\"keccak256\":\"0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0\",\"dweb:/ipfs/QmNkyzDobVQLoq9BtQ8HtgsPLiqnmi97EZx1wsu6wp8nKH\"]}},\"version\":1}",
   "metadata": {
     "compiler": {
       "version": "0.8.21+commit.d9974bed"
@@ -44,12 +44,12 @@
         "bytecodeHash": "ipfs"
       },
       "compilationTarget": {
-        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol": "PackedCounterLib"
+        "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol": "PackedCounterLib"
       },
       "libraries": {}
     },
     "sources": {
-      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol": {
+      "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol": {
         "keccak256": "0x44ddfa9eb8a861462c550f0a9d66c40c68acdb347a61fa765949608407a2c7fb",
         "urls": [
           "bzz-raw://47ee957f4b19cab9e20bf5fc569c015eca13852fb3351f2a105a8be9c48204c0",
@@ -61,27 +61,15 @@
     "version": 1
   },
   "ast": {
-    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-a5e8a6d5_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol",
+    "absolutePath": "/Users/emersonhsieh/london-aw/mud-soho-chalk-test/node_modules/.pnpm/@latticexyz+store@2.0.0-main-3e057061_typescript@5.1.6/node_modules/@latticexyz/store/src/PackedCounter.sol",
     "id": 2892,
     "exportedSymbols": {
-      "ACC_BITS": [
-        2277
-      ],
-      "MAX_VAL": [
-        2289
-      ],
-      "PackedCounter": [
-        2268
-      ],
-      "PackedCounterInstance": [
-        2891
-      ],
-      "PackedCounterLib": [
-        2686
-      ],
-      "VAL_BITS": [
-        2282
-      ]
+      "ACC_BITS": [2277],
+      "MAX_VAL": [2289],
+      "PackedCounter": [2268],
+      "PackedCounterInstance": [2891],
+      "PackedCounterLib": [2686],
+      "VAL_BITS": [2282]
     },
     "nodeType": "SourceUnit",
     "src": "32:8928:13",
@@ -91,12 +79,7 @@
         "nodeType": "PragmaDirective",
         "src": "32:25:13",
         "nodes": [],
-        "literals": [
-          "solidity",
-          ">=",
-          "0.8",
-          ".21"
-        ]
+        "literals": ["solidity", ">=", "0.8", ".21"]
       },
       {
         "id": 2268,
@@ -126,9 +109,7 @@
         "libraryName": {
           "id": 2269,
           "name": "PackedCounterInstance",
-          "nameLocations": [
-            "620:21:13"
-          ],
+          "nameLocations": ["620:21:13"],
           "nodeType": "IdentifierPath",
           "referencedDeclaration": 2891,
           "src": "620:21:13"
@@ -139,9 +120,7 @@
           "pathNode": {
             "id": 2270,
             "name": "PackedCounter",
-            "nameLocations": [
-              "646:13:13"
-            ],
+            "nameLocations": ["646:13:13"],
             "nodeType": "IdentifierPath",
             "referencedDeclaration": 2268,
             "src": "646:13:13"
@@ -427,9 +406,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    2300
-                  ],
+                  "assignments": [2300],
                   "declarations": [
                     {
                       "constant": false,
@@ -914,9 +891,7 @@
                     "pathNode": {
                       "id": 2295,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "1674:13:13"
-                      ],
+                      "nameLocations": ["1674:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "1674:13:13"
@@ -950,9 +925,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    2343
-                  ],
+                  "assignments": [2343],
                   "declarations": [
                     {
                       "constant": false,
@@ -1708,9 +1681,7 @@
                     "pathNode": {
                       "id": 2338,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "2295:13:13"
-                      ],
+                      "nameLocations": ["2295:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "2295:13:13"
@@ -1744,9 +1715,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    2405
-                  ],
+                  "assignments": [2405],
                   "declarations": [
                     {
                       "constant": false,
@@ -2773,9 +2742,7 @@
                     "pathNode": {
                       "id": 2400,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "3057:13:13"
-                      ],
+                      "nameLocations": ["3057:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "3057:13:13"
@@ -2809,9 +2776,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    2486
-                  ],
+                  "assignments": [2486],
                   "declarations": [
                     {
                       "constant": false,
@@ -4109,9 +4074,7 @@
                     "pathNode": {
                       "id": 2481,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "3961:13:13"
-                      ],
+                      "nameLocations": ["3961:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "3961:13:13"
@@ -4145,9 +4108,7 @@
               "nodes": [],
               "statements": [
                 {
-                  "assignments": [
-                    2586
-                  ],
+                  "assignments": [2586],
                   "declarations": [
                     {
                       "constant": false,
@@ -5716,9 +5677,7 @@
                     "pathNode": {
                       "id": 2581,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "5007:13:13"
-                      ],
+                      "nameLocations": ["5007:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "5007:13:13"
@@ -5753,9 +5712,7 @@
           "text": " @title PackedCounter Library\n @notice Static functions for handling PackedCounter type.\n @dev Provides utility functions to pack values into a PackedCounter.\n The caller must ensure that the value arguments are <= MAX_VAL."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          2686
-        ],
+        "linearizedBaseContracts": [2686],
         "name": "PackedCounterLib",
         "nameLocation": "1200:16:13",
         "scope": 2892,
@@ -6019,9 +5976,7 @@
                     "pathNode": {
                       "id": 2693,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "6059:13:13"
-                      ],
+                      "nameLocations": ["6059:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "6059:13:13"
@@ -6399,9 +6354,7 @@
                     "pathNode": {
                       "id": 2714,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "6572:13:13"
-                      ],
+                      "nameLocations": ["6572:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "6572:13:13"
@@ -6604,9 +6557,7 @@
                   }
                 },
                 {
-                  "assignments": [
-                    2767
-                  ],
+                  "assignments": [2767],
                   "declarations": [
                     {
                       "constant": false,
@@ -6750,9 +6701,7 @@
                   "src": "7389:71:13"
                 },
                 {
-                  "assignments": [
-                    2777
-                  ],
+                  "assignments": [2777],
                   "declarations": [
                     {
                       "constant": false,
@@ -6836,9 +6785,7 @@
                   "src": "7515:42:13"
                 },
                 {
-                  "assignments": [
-                    2783
-                  ],
+                  "assignments": [2783],
                   "declarations": [
                     {
                       "constant": false,
@@ -7152,9 +7099,7 @@
                   ]
                 },
                 {
-                  "assignments": [
-                    2809
-                  ],
+                  "assignments": [2809],
                   "declarations": [
                     {
                       "constant": false,
@@ -7299,9 +7244,7 @@
                   ]
                 },
                 {
-                  "assignments": [
-                    2821
-                  ],
+                  "assignments": [2821],
                   "declarations": [
                     {
                       "constant": false,
@@ -8100,9 +8043,7 @@
                     "pathNode": {
                       "id": 2745,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "7164:13:13"
-                      ],
+                      "nameLocations": ["7164:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "7164:13:13"
@@ -8198,9 +8139,7 @@
                     "pathNode": {
                       "id": 2753,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "7265:13:13"
-                      ],
+                      "nameLocations": ["7265:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "7265:13:13"
@@ -8341,9 +8280,7 @@
                     "pathNode": {
                       "id": 2877,
                       "name": "PackedCounter",
-                      "nameLocations": [
-                        "8843:13:13"
-                      ],
+                      "nameLocations": ["8843:13:13"],
                       "nodeType": "IdentifierPath",
                       "referencedDeclaration": 2268,
                       "src": "8843:13:13"
@@ -8412,15 +8349,11 @@
           "text": " @title PackedCounter Instance Library\n @notice Instance functions for handling a PackedCounter.\n @dev Offers decoding, extracting, and setting functionalities for a PackedCounter."
         },
         "fullyImplemented": true,
-        "linearizedBaseContracts": [
-          2891
-        ],
+        "linearizedBaseContracts": [2891],
         "name": "PackedCounterInstance",
         "nameLocation": "5709:21:13",
         "scope": 2892,
-        "usedErrors": [
-          2691
-        ],
+        "usedErrors": [2691],
         "usedEvents": []
       }
     ],
