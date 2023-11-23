@@ -7,3 +7,8 @@ broadcast/
 
 # Ignore MUD deploy artifacts
 deploys/**/*.json
+
+# MUD v2 artifacts
+/out/*
+!/out/IWorld.sol/IWorld.abi.json
+.env
